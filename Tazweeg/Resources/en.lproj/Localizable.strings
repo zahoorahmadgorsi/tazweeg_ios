@@ -1,0 +1,275 @@
+/* 
+  Localizable.strings
+  Tazweeg
+
+  Created by Ahmed on 3/24/19.
+  Copyright © 2019 Glowingsoft. All rights reserved.
+*/
+
+//Common
+"appFont" = "TAHOMA";
+"alert" = "Alert";
+"gallery" = "Gallery";
+"camera" = "Camera";
+"confirm" = "Confirmation";
+"ok" = "OK";
+"cancel" = "Cancel";
+"search" = "Search";
+"validation" = "Validation";
+"verification" = "Verification";
+"select_one" = "Select One";
+"done" = "Done";
+"clear" = "Clear"; //signature
+"not_applicable" = "Not Applicable";
+"failure" = "Request could not be addressed. Please retry later.";
+"noData" = "No Data Available";
+"Skip" = "Skip";
+"yes" = "Yes";
+"no" = "No";
+"otp_verified" = "OTP verified successfully, please continue to rest of signup steps.";
+//Common signUp
+"select_state" = "Select A State/Emirate";
+"select_consultant" = "Select A Consultant";
+"name_is_missing" = "Name is missing";
+"name_length_invalid" = "Name is required of minimum length 4";
+"phone_is_missing" = "Phone number is missing";
+"phone_notValid" = "Phone number is not valid";
+"consultant_notValid" = "Invalid Consultant, Please select consultant";
+"emirate_notValid" = "Invalid Emirate/State, Please select atleast one.";
+"terms_required" = "Please accept terms & conditions to proceed ";
+"email_notValid" = "Email is not valid";
+"verification_code" = "Verification Code";
+"emirate_id_notValid" = "National ID is not valid";
+"code_is_missing" = "Code is missing";
+"all_fields_required" = "All fields are required";
+"lang_required" = "Language is required";
+"sign_required" = "Signature is required";
+"no_mem_found" = "No member found";
+"old_pass_miss" = "Old password is missing!";
+"new_pass_miss" = "New password is missing!";
+"pass_6_length" = "Password should be atleast 6 characters in length!";
+"terms" = "Terms Of Use";
+"privacy_policy" = "Privacy Policy";
+"pass_not_match" = "Password is not matching";
+"sign_up" = "SignUp";
+"consultant_success_signup_msg" = "Thanks for your registration, we will contact you for further proceedings.";
+"member_success_signup_msg" = "To login please use the credentials which has been SMS to you.";
+"ksa_success_signup_msg" = "Thanks for your registration, to complete your profile please contact us 0097126225889 or send us whatsapp ";
+"ksa_consultant_success_signup_msg" = "Thanks for your registration, we will contact you to complete all procedures.";
+"invalid_verification_code" = "Invalid Verification Code. Please retry";
+"copy_rights" = "Copyright © 2018 Tazweeg. All rights reserved.";
+"terms_and_condition" = "Terms and conditions";
+"duplicateUser" = "You are already registered. If you don't remember your password please try the option 'forgot password'.";
+//Login
+"login" = "Login";
+"member_login" = "Provide member login details";
+"consultant_login" = "Provide consultant login details";
+"verification_failed" = "Invalid credentials. Please retry.";
+"information" = "Information";
+"feature_not_available" = "This feature is currently not available.";
+"faceID_login" = "Please, pass authorization to enter this area";
+"faceID_enter_credentials" = "Select user & enter credentials";
+"invalid_user_consultant" = "Invalid user. You are registered as a consultant, please go to consultant's login";
+"invalid_user_member" = "Invalid user. You are registered as a member, please go to member's login";
+//Home Screen
+"percentage_complete" = "% Complete";
+"home" = "Home";
+"consultant" = "Consultant";
+"photo_selection" = "Photo Selection";
+"photo_selection_msg" = "Take a photo from camera or select from the library.";
+"take_photo" = "Take Photo";
+"choose_photo" = "Choose Photo";
+"unpaid_profile" = "Please pay the fee to see the matchings.";
+"incomplete_profile" = "Please complete your profile to see the matchings.";
+"iAPNotAvailable" = "This feature is not available on this device.";
+"iAPNotDownloaded" = "In app purchases could not downloaded, please retry later.";
+"missing_whats_app" = "Missing whats app";
+"install_whats_app" = "Please install whatsapp!";
+//Slide Menu
+"complete_profile" = "Complete Profile";
+"settings" = "Settings";
+"profile" = "Profile";
+"changePassword" = "Change Password";
+"changeLanguage" = "Change Language";
+"changeLaunchIcon" = "Change Application Launch Icon";
+"enableFaceID" = "Face Identification";
+"faqs" = "FAQs";
+"sign_out" = "Sign Out";
+"areYouSure" = "Are you sure?";
+"contactUs" = "Contact Us";
+"office_address" = "5205 - Addax Tower, Al Reem Island, Abu Dhabi, UAE. PO Box 42524";
+//ContactUS
+"mailServiceNotAvailable" = "Mail services are not available";
+"emailSubject" = "Application feedback";
+//"emailBody" = "Please provide your feedback";
+"facebook" = "Facebook";
+"instagram" = "Instagram";
+"pinterest" = "Pinterest";
+"telegram" = "Telegram";
+"twitter" = "Twitter";
+//Sign Up Step 1
+"full_registration" = "Full Registration";
+"step1" = "Step 1";
+"step2" = "Step 2";
+"step3" = "Step 3";
+"step4" = "Step 4";
+"step5" = "Step 5";
+//Step 4
+"bride_data" = "Bride Data";
+"groom_data" = "Groom Data";
+"female_social_status_check" = "Do you accept to marry a divorced or married or widowed or single?";
+"male_social_status_check" = "Do you accept to marry a divorced or widowed or single?";
+//Step 5
+"language_required" = "Language is required";
+"sign_required" = "Signature is required";
+"success" = "Success";
+"payment"  = "Payment";
+"payment_message"  = "Please pay the fee to complete your profile.";
+"profile_completed"  = "Payment has been made and profile completed successfully" ;
+"payment_selection" = "Payment Selection";
+"payment_selection_msg" = "Please select a payment method";
+"credit_debit_card" = "Credit or debit card";
+"pay_now" = "Pay Now";
+"pay_later" = "Pay Later";
+"payment_failure"  = "Sorry, your payment has not been accepted, Please try again.";
+//Step 6
+"already_paid" = "Fee has already been paid.";
+"age_check" = "Thanks for your registration with us , please call this number\n +971 55 552 9930 \nto activate your account";
+//Error Alert
+"error" = "Error";
+"general_error" = "Some error occurred at server, Please retry later.";
+"profile_finished" = "Your profile has been de-activated. Please contact the admin.";
+//Members
+"members" = "Members";
+"matchings" = "Matchings";
+"areYouSurePay" = "Are you sure this member has paid?";
+"areYouSureFinish" = "Are you sure this member has been married?";
+"areYouSureCancel" = "Are you sure, you want to cancel this member? This action will remove the member from your members list.";
+"areYouSureTransfer" = "Are you sure, you want to transfer selected member to this consultant";
+"numberOfRecords" = "Count : ";
+//"search_params" = "Search member by following parameters";
+"name" = "Name";
+"code" = "Code";
+"age" = "Age";
+"years" = "Years";
+"months" = "Months";
+"days" = "Days";
+"emirate" = "Emirate/State";
+"phone_number" = "Phone Number";
+"all" = "All";
+"pending" = "Pending";
+"pendingMembers" = "Pending Members";
+"completed" = "Completed";
+"paid" = "Paid";
+"finished" = "Finished";
+"finish" = "Finish";
+"pay" = "Pay";
+"choosing" = "Choosing";
+"matching" = "Matching";
+"married" = "Married";
+"approve" = "Approve";
+"match" = "Match";
+"refused" = "Refused";
+"refuse" = "Refuse";
+"edit" = "Edit";
+"delete" = "Delete";
+"transfer" = "Transfer";
+"approval_attempts_expired" = "Total attempts to approve are expired";
+"marriage_attempts_expired" = "Total attempts to marriage are expired";
+//Change Password
+"changePasswordSuccess" = "Password has been changed successfully.";
+"passwordIsMisMatched" = "Password is mismatched";
+"complete_profile" = "Complete Profile";
+//Change Launch Icoon
+"abu_dhabi" = "Abu Dhabi";
+"dubai"= "Dubai";
+"sharjha"= "Sharjha";
+"um_mul_queen"= "Umm Al Quwain";
+"ras_al_khaima"= "Ras Al Khaimah";
+"ajman"= "Ajman";
+"fujairah"= "Fujairah";
+"al_ain"= "Al Ain";
+"abu_dhabi_police"= "Abu Dhabi Police";
+"tazweeg"= "Tazweeg";
+"dontSupport"= "This feature is not yet available for this device.";
+//Matching
+"no_member_found" = "No Member Found.";
+"no_match_found" = "No match found. Please confirm if your profile is completed.";
+//Members Details
+"userId" = "User ID";
+"username" = "Member Code";
+"fullName" = "Full Name";
+"phone" = "Phone Number";
+"email" = "Email";
+"address" = "Address";
+"country" = "Country";
+"family" = "Family";
+"family_name_to_show" = "Want other members to see family name?";
+"birthPlace" = "Place Of Birth";
+"emirateId" = "National ID";
+"birthDate" = "Date Of Birth";
+"gender" = "Gender";
+"residence" = "Residence";
+"ethnicity" = "Ethnicity";
+"motherNationality" = "Mother Nationality";
+"accepting_polygamy"= "Accepting the polygammy?";
+"isSmoke" = "Is Smoking";
+"skinColor" = "Skin Color";
+"hairColor" = "Hair Color";
+"hairType" = "Hair Type";
+"eyeColor" = "Eye Color";
+"height" = "Height";
+"bodyType" = "Body Type";
+"bodyWeight" = "Body Weight (Kilograms)";
+"isWorking" = "Is Working";
+"educationLevel" = "Education Level";
+"isDisease" = "Any Disease";
+"diseaseName" = "Disease Name";
+"socialStatus" = "Social Status";
+"financialStatus" = "Financial Status";
+"hasChildren" = "Has Children?";
+"reproductionStatus" = "Reproduction";
+"noOfChildren" = "Number Of Childrens";
+"jobTitle" = "Job Title";
+"jobType" = "Job Type";
+"firstRelative" = "First Relative";
+"firstRelativeNumber" = "Phone Number Of First Relative ";
+"secondRelative" = "Second Relative";
+"secondRelativeNumber" = "Phone Number Of Second Relative ";
+"state" = "State/Emirate";
+"skinType" = "Skin";           //Missing
+"brideArrangment" = "Bride Arrangement";
+"occuption" = "Occupation";
+"condemnBride" = "Veil";
+"drivingLicense" = "Driving License";
+"religionCommitment" = "Commitment To Religion";
+"annualIncome" = "Annual Income";
+"willPayToBride" = "How Much Will Pay To Spouse";
+"firstRelativeRelation" = "Relationship With First Relative";
+"secondRelativeRelation" = "Relationship With Second Relative";
+"paymentStatus" = "Payment Status";   //status
+"sect" = "Sect Type";
+"applicantDescription" = "Applicant Description";
+"notAvailable" = "Not Available";
+"member_information" = "Profile";
+"required_information" = "Required";
+"requiredState" = "Where you will live with the spouse";
+"willMarryInGCC" = "Agree to marry from GCC (Gulf Cooperation Council) ?";
+"commentsAdded" = "Comments added successfully.";
+"comments" = "Comments";
+"submit" = "Submit";
+"add_comments" = "Please add some comments";
+"has_person_refer" = "Do you have a person to contact to?";
+"refer_name" = "Name";
+"refer_number" = "Mobile Number";
+//Change Password
+"old_pass_missing" = "Old password is missing";
+"new_pass_missing" = "New password is missing";
+"new_pass_length" = "Password length should be atleast 6 characters";
+"passwords_not_match" = "New and confirm new password are not matching";
+//Forgot Password
+"one_is_required" = "Please provide either phone number or email address";
+"check_phone_email" = "Your credentials have been sent to the provided phone number or email address.";
+"emailPhoneNotExist" = "Provided information does not exist.";
+"check_phone" = "Your account was in active. To activate your account please enter the pin code which has been sent via SMS.";
+"forgotPassword" = "Forgot Password";

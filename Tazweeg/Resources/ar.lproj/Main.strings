@@ -1,0 +1,414 @@
+//********************
+//User Selection Scene
+//********************
+//Need an account?
+"4dV-cy-tqS.text" = "حساب جديد؟";
+/* Class = "UILabel"; text = "User"; ObjectID = "buA-gk-rda"; */
+"7Y7-j7-OZ9.text" = "عضو";
+/* Class = "UILabel"; text = "Consultant"; ObjectID = "i0Y-eL-fl1"; */
+"llf-BN-zo0.text" = "معرف";
+//SignUp
+"7eO-Ia-nfu.normalTitle" = "تسجيل";
+"alg-Om-0Is.normalTitle" = "تسجيل";
+// want to marry
+"AdY-3m-O63.text" =  "أرغب في الزواج";
+// want to work with us
+"TDt-cu-LFU.text" = "أرغب في العمل لديكم";
+//********************
+// Phone Number Scene
+//********************
+//Please enter mobile number
+"axr-my-sFh.text" = "الرجاء إدخال رقم الهاتف";
+//I have read and agreed to the terms and conditions.
+"Jgt-oO-u7L.normalTitle" = "لقد قرأت ووافقت على الشروط والأحكام.";
+//Mobile
+"14o-Ph-IZP.placeholder" = "رقم الهاتف أي 58xxxxxxx";
+//Next
+"OQz-HE-sKI.normalTitle" = "التالى";
+////Login Scene
+////***********
+//Login Scene
+//***********
+//Login Title
+"71W-gV-TZw.text" =  "مرحبا بكم في tazweeg.com";
+//Username (consultant)... for member we are pre populating txtbox with Tazweeg_ so no need of placeholder
+"OMm-Rd-qPv.placeholder" = "اسم المعرف";
+//Password
+"3Ak-Yy-Sbe.placeholder" = "كلمه المرور";
+//Forgot Password
+"VN2-pv-png.normalTitle" = "هل نسيت كلمة المرور؟";
+//Login
+"SHV-9X-FyL.normalTitle" = "تسجيل الدخول";
+//OR
+"n0O-QY-AGx.text" = "أو";
+//Login via smart pass
+"Vgz-LB-akL.normalTitle" = "تسجيل الدخول عبر الهوية الرقمية";
+//Smart Pass message
+"0yP-s2-KG2.text" = "الهوية الدقميه هي بيانات الاعتماد الوحيدة للوصول إلى الخدمات الحكومية في دولة الإمارات العربية المتحدة.";
+
+////***********************
+//Common SignUp Scene
+//***********************
+//Signup Title
+"wqn-K5-tMz.text" = "تسجيل جديد";
+//Name
+"Gh0-Ja-bPf.placeholder" = "الاسم";
+//Mobile
+"KpK-Ra-p5H.placeholder" = "رقم الهاتف على سبيل المثال 58xxxxxxx";
+//Email
+"1gC-Dy-L8l.placeholder" = "البريد الإلكتروني";
+//Gender
+"sAO-6w-4jh.placeholder" = "الجنس";
+//Emirates
+"RtU-j2-cmG.text" = "اختيار المحافظة/الإمارة (واحدة أو أكثر):";
+//I have read and agreed to the Terms and Conditions
+"K8E-Ji-XbS.normalTitle" = "لقد قرأت ووافقت على الشروط والأحكام";
+//SignUp
+"CFZ-m2-9Nx.normalTitle" = "تسجيل";
+//Verification Code PlaceHolder
+"8MT-qc-otd.placeholder" = "رمز التحقق";
+//Verification Code Title
+"N0B-y9-d6n.text" = "الرجاء إدخال رمز التحقق الذي تم إرساله إلى هاتفك المحمول.";
+
+////***********************
+////Member SignUp Countries Scene
+////***********************
+////Countries
+"Vv7-76-D4B.text" = "اختر دولة";
+////***********************
+////Member SignUp Scene
+////***********************
+////Emirates
+"qvN-rM-qRc.text" = "الإمارات/المحافظات";
+////Consultants
+"kaa-ZA-j2l.text" = "المعرفين";
+////***********************
+////Profile Scene
+////***********************
+////Your profile
+"NTL-Vs-zlR.text" = "الملف الشخصي";
+////20% Complete
+"d3K-Tr-gb0.text" = "20 ٪ مكتمل";
+//// profile
+"gaR-qd-TeI.text" = "الملف الشخصي";
+////Member Name
+"SkG-iN-dnv.text" = "اسم العضو";
+////Member code
+"8FO-WU-sFs.text" = "كود العضو";
+////Profile Status
+"hqg-pi-ody.text" = "حالة الملف الشخصي";
+////consultant
+"VYv-SE-VXK.text" = "المعرف";
+////consultant name
+"YK8-Ud-f0V.text" = "اسم";
+////consultant mobile name
+"sSX-w7-cI2.text" = "رقم هاتف";
+////Emirates
+"Bgr-dj-0iH.text" = "الإمارات/المحافظات";
+////Matching
+"JZO-fO-m1O.text" = "التوافق";
+//
+////***********************
+////Signup Step 1 Scene
+////***********************
+////Title 1
+"NDh-dv-i4C.text" = "بيانات مقدم الطلب";
+////Title 2
+"ehH-4b-oJg.text" = "يرجي كتابة البيانات الخاصه بك";
+////Name
+"StF-Yi-egn.text" = "الاسم *";
+////Mobile Number
+"Ced-83-Jhj.text" = "رقم الهاتف المتحرك *";
+////Email
+"cHo-Df-LPY.text" = "البريد الإلكتروني";
+////Emirates ID
+"pka-AZ-BSw.text" = "رقم الهوية الوطنية * ";
+"t1P-Qg-SNW.placeholder" = "أدخل الهوية الوطنية";
+////Tribe/Cast
+"QDx-Rl-FDv.text" = "القبيله *";
+//Do you want faily name to appear
+"OND-h5-4hn.text" = "هل تريد أن يرى الأعضاء الآخرون القبيلة؟";
+//// DOB
+"V6E-1d-ouV.text" = "تاريخ الميلاد *";
+//// Place Of Birth
+"DpD-Ye-Bga.text" = "مكان الميلاد *";
+////Country
+"GqU-Ta-qqR.text" = "البلد *";
+////Emirate
+"EZE-Xk-B7k.text" = "المحافظة/الإمارة *";
+//// Address
+"WfB-4h-lRI.text" = "العنوان *";
+//Residence
+"vDO-rj-jNH.text" = "الإقامة *";
+//Ethnicity
+"Nv3-Jc-Dgz.text" = "الأصل العرقي *";
+//Mother Nationality
+"7DV-yW-A61.text" = "جنسية الأم *";
+////Next
+"4oV-wR-l2N.normalTitle" = "إرسال و التالي";
+////***********************
+////Signup Step 2 Scene
+////***********************
+////Title 1
+"V4l-Pc-GJj.text" = "بيانات مقدم الطلب";
+////Title 2
+"tbe-jn-ATk.text" = "يرجي كتابة البيانات الخاصه بك";
+////Smoking
+"Evt-DC-7bd.text" = "التدخين *";
+////Skin color
+"acj-nl-cYd.text" = "لون البشره *";
+////Hair Color
+"Emb-sy-6mI.text" = "لون الشعر *";
+////Hair Type
+"IMh-Th-YMA.text" = "نوع الشعر *";
+//// EyeColour
+"EjB-My-FjO.text" = "لون العيون *";
+////Height *
+"P7L-2X-h8F.text" = "الطول *";
+////Body Type Texture *
+"zj4-sf-W7a.text" = "القوام *";
+//Body Weight
+"jSS-c1-svK.text" = "وزن الجسم (كيلوغرام) *";
+//// Sect type
+"I8z-Kw-dYV.text" = "نوع الطائفة *";
+////Spouse Arrangement *
+"6di-ks-2tx.text" = "ترتيب الزوج *";
+////Veil *
+"4Dy-K7-jiE.text" = "الحجاب *";
+////Have Driving License? *
+"2ai-pl-1nZ.text" = "هل لديك رخصة قيادة؟ *";
+////Next
+"eHc-3n-spT.normalTitle" = "إرسال و التالي";
+////Previous
+"S5K-Dh-0KP.normalTitle" = "سابق";
+////***********************
+////Signup Step 3 Scene
+////***********************
+////Title 1
+"noc-1W-eS9.text" = "بيانات مقدم الطلب";
+////Title 2
+"Ohk-ky-YF0.text" = "يرجي كتابة البيانات الخاصه بك";
+////Educational level *
+"Ekg-wY-mtS.text" = "المستوي التعليمي *";
+////Commitment to religion *
+"AtW-uR-Cwg.text" = "الإلتزام بالدين *";
+////Financial Status *
+"VpV-eb-xmD.text" = "الحالة المالية *";
+////Social status *
+"hhA-QE-4ba.text" = "الحالة الإجتماعيه *";
+////Is Working
+"tQQ-1c-8hu.text" = "العمل *";
+//Has Children
+"nzF-fg-UlD.text" = "هل يوجد اطفال؟ *";
+////Number Of Children *
+"7nD-vi-LpA.text" = "عدد الاطفال *";
+////Reproduction *
+"bSU-j5-F35.text" = "العقم *";
+////Occupation *
+"Ssc-BV-l2N.text" = "طبيعه العمل *";
+//// Type of the job *
+"ORw-vv-TeY.text" = "نوع الوظيفه *";
+////Job title *
+"uIj-LV-ZCp.text" = "المسمي الوظيفي *";
+////Annual Income *
+"S5y-BT-O8Y.text" = "المدخول السنوي *";
+////Any disease i.e. sexual/skin/chronic/hereditary *
+"hfc-1S-7eZ.text" = "أي مرض - جنسي / جلد / مزمن / وراثي *";
+////Disease ( Please Mention )
+"IsV-xD-xQV.text" = "المرض (يرجى ذكر)";
+////Next
+"19D-Q7-EbF.normalTitle" = "إرسال و التالي";
+////Previous
+"bvR-2V-XSa.normalTitle" = "سابق";
+////***********************
+////Signup Step 4 Scene
+////***********************
+
+////Title 2
+"Srn-M2-f7J.text" = "يرجى تقديم مواصفات الزوج المطلوبة";
+////Bride or groom data *
+"tXX-hS-OPc.text" = "بيانات العريس أو العروسه *";
+////Bride Arrangement  *
+"HnW-Rj-kph.text" = "ترتيب الزوج *";
+////Nationality *
+"abQ-oQ-6ba.text" = "الجنسية *";
+//Has Childres
+"4PJ-l2-vjU.text" = "هل يوجد اطفال؟ *";
+////Number Of Children
+"Jd8-rp-tiE.text" = "عدد الاطفال *";
+////Infertility
+"Zqo-ys-IBr.text" = "العقم*";
+////Social status *
+"ZeF-JO-uev.text" = "الحالة الإجتماعيه *";
+////Age
+"3fk-A5-WlP.text" = "العمر *";
+//// Height
+"rk5-xX-hfN.text" = "الطول *";
+////Body Type
+"9KY-u1-kQs.text" = "القوام *";
+////Skin color
+"fbE-Bh-zHj.text" = "لون البشره *";
+//// Educational Level
+"BvC-Pg-pF7.text" = "المستوي التعليمي *";
+////Is Working
+"rFH-uT-MPr.text" = "العمل *";
+//// Job Type
+"3dD-7N-jIS.text" = "نوع الوظيفة *";
+//// Veil
+"S3S-8u-2Mn.text" = "الحجاب *";
+//// Driving License
+"Evy-zT-QFB.text" = "رخصة قياده *";
+//// Home Much r you willing to pay to the bride
+"Oxt-gf-Hzm.text" = "كم مستعد تدفع من أجل العروس خاص بالعريس فقط *";
+//// Where you will live with the spouse?
+"KT7-n1-9eX.text" = "أين ستعيش مع الزوج؟";
+//Do you believe in polygamy?
+"oFL-NG-gvB.text" = "هل تقبل تعدد الزوجات؟";
+//to marry in GCC
+//"30H-pW-Fqq.text" = "هل توافق على الزواج من دول مجلس التعاون الخليجي ؟";
+"30H-pW-Fqq.text" = "هل توافق على الزواج من دول مجلس التعاون الخليجي ؟";
+////Next
+"Con-ZG-EbN.normalTitle" = "إرسال و التالي";
+////Previous
+"Omy-1b-q8I.normalTitle" = "سابق";
+////***********************
+////Signup Step 5 Scene
+////***********************
+////Relatives Data
+"8G0-Mu-9Di.text" = "بيانات الأقارب";
+////Put the names of 2 relatives
+"ytC-dn-OCG.text" = "ضع أسماء 2 أقارب";
+//to marry with some loved one
+"emL-A1-LHH.text" = "اذا كان عندك من تود الإرتباط به يرجي كتابه معلوماته وسوف نقوم بالتواصل معه";
+//// The name of the love one
+"lz6-QY-iMU.text" = "الإسم";
+////Phone number of the love one
+"Xg4-3g-T4i.text" = "رقم الهاتف";
+////Mobile of loved one
+"gFz-Hu-x2p.placeholder" = "رقم الهاتف مع رمز البلد ، على سبيل المثال 971xxxxxxxxx";
+//// The name of the relative
+"mpI-6s-fDa.text" = " إسم القريب الأول";
+////Phone number
+"JJZ-5O-UcS.text" = "رقم هاتف القريب الأول ";
+////Mobile
+"rAF-Nj-bhg.placeholder" = "رقم الهاتف مع رمز البلد ، على سبيل المثال 971xxxxxxxxx";
+////Relationship with first relative
+"hLp-IR-uqX.text" = "العلاقة مع أول قريب";
+//// The name of the relative
+"XdX-Vo-1HU.text" = " إسم القريب الثاني";
+////Phone number
+"vAe-In-aod.text" = "رقم هاتف القريب الثاني";
+////Mobile
+"fyy-DD-HBh.placeholder" = "رقم الهاتف مع رمز البلد ، على سبيل المثال 971xxxxxxxxx";
+////Relationship with first relative
+"znZ-LC-6wG.text" = "العلاقة مع القريب الثاني ";
+////Short description of the applicant
+"aq3-ev-cP0.text" = "نبذه قصيره عن مقدم الطلب";
+////The language *
+"HLy-QG-Rxn.text" = "اللغه *";
+////Others
+"HeW-Et-6Nl.text" = "أخري";
+////Einglish
+"LJP-6Y-VKF.text" = "إنجليزي";
+////Arabic
+"Y8f-k1-v2U.text" = "عربي";
+////Signature
+"SkG-O8-uAc.text" = "التوقيع *";
+////Post your signature here
+"BEV-CM-wtn.text" = "ضع توقيعك هنا";
+////Terms And Conditions
+"mhd-pE-92m.normalTitle" = "لقد قرأت ووافقت على الشروط والاحكام";
+////Submit
+"7dH-tb-jAE.normalTitle" = "ارسال";
+////Previous
+"f4k-CI-BFh.normalTitle" = "سابق";
+////***********************
+////Signup Step 6 Scene
+////***********************
+//Pay 2500 AED
+"YOl-hG-0wE.text" = "ادفع 2500 درهم";
+//Please pay the agreement amount to see and select your desired matches.
+"e0O-US-DKN.text" = "يرجي دفع الرسوم حتي تستطيع رؤيه التوافق";
+// Name of Card Holder *
+"1sz-eB-IcQ.text" = "الإسم المدون علي البطاقه *";
+"0Or-fx-TES.placeholder" = "كما يظهر على البطاقة";
+//Credit/Debit Card Number *
+"dnr-Bl-TO4.text" = "رقم بطاقه الإئتمان *";
+"EYQ-iK-zkp.placeholder" = "رقم مكون من 16 رقمًا على البطاقة";
+//Valid Thru *
+"9Cw-zC-hSv.text" = "تاريخ الانتهاء *";
+// Pin / CVV *
+"PXx-xi-eVw.text" = "الرقم الخلفي CVV *";
+"GIv-5Q-B1f.placeholder" = "آخر 3 أرقام على ظهر البطاقة";
+// Email *
+"auy-AW-zeV.text" = "البريد الإلكتروني *";
+"iVe-GT-ocj.placeholder" = "الرجاء إدخال البريد الإلكتروني";
+// Cancel
+"C9k-Ac-3tl.normalTitle" = "إلغاء";
+// Pay Now
+"17h-nb-qz3.normalTitle" = "ادفع الآن";
+////***********************
+////Signature Control
+////***********************
+////Done
+"6bP-vO-0rR.normalTitle" = "تاكيد";
+////Clear
+"avB-2O-eo8.normalTitle" = "مسح";
+////***********************
+////Change Password
+////***********************
+///* Class = "UILabel"; text = "كلمة المرور القديمة"; ObjectID = "pF0-mC-aXc"; */
+"ymD-va-ar7.placeholder" = "كلمة المرور القديمة";
+///* Class = "UILabel"; text = "كلمة السر الجديدة"; ObjectID = "PlX-mD-1LV"; */
+"i2T-VB-rrm.placeholder" = "كلمة المرور الجديدة";
+///* Class = "UILabel"; text = "تأكيد كلمة المرور"; ObjectID = "Jxl-5B-H0Q"; */
+"hjP-Up-mUu.placeholder" = "تأكيد كلمة المرور";
+///* Class = "UIButton"; normalTitle = "إلغاء"; ObjectID = "IFn-gP-DsC"; */
+"IFn-gP-DsC.normalTitle" = "إلغاء";
+///* Class = "UIButton"; normalTitle = "حفظ التغييرات"; ObjectID = "UYp-Rt-qc7"; */
+"UYp-Rt-qc7.normalTitle" = "حفظ التغييرات";
+////******************************
+////Member Detail/Complete Profile
+////******************************
+///* Class = "UIButton"; normalTitle = "الإتصال بالعضو"; ObjectID = "W7Y-yP-mPq"; */
+"W7Y-yP-mPq.normalTitle" = "الإتصال بالعضو";
+///* Class = "UIButton"; normalTitle = "التوافق"; ObjectID = "kTm-de-1Bg"; */
+"kTm-de-1Bg.normalTitle" = "التوافق";
+///* Class = "UIButton"; normalTitle = "بيانات العضو"; ObjectID = "qR7-sW-dBR"; */
+"qR7-sW-dBR.normalTitle" = "بيانات العضو";
+///* Class = "UIButton"; normalTitle = "المواصفات المطلوبه"; ObjectID = "md3-wr-kts"; */
+"md3-wr-kts.normalTitle" = "المواصفات المطلوبه";
+//call your consultant
+"Xai-W3-J6Q.normalTitle" = "تواصل مع المعرف";
+"79Y-gF-8Mb.normalTitle" = "أضف تعليقات";
+////*******
+////Members
+////*******
+////total
+"GiM-BT-XFY.text" = "الاعضاء";
+////Males
+"YkR-ci-LXu.text" = "الذكور";
+////FeMales
+"E7y-8x-Fa2.text" = "الإناث";
+//Select Age range
+"9qe-iZ-Sg4.placeholder" = "اختر الفئة العمرية";
+//Select Emirate
+"8YY-rl-ssg.placeholder" = "اختيار المحافظة/الإمارة";
+////*********
+////Matchings
+////*********
+"UXp-Ga-YAT.normalTitle" = "اتصل بالمعرف الخاص بك";
+////***************
+////Forgot Password
+////***************
+////Forgot Password?
+"VCo-fU-abK.text" = "هل نسيت كلمة المرور؟";
+////We just need your registered email address or phone number to send you password.
+"TnG-Et-9JL.text" = "نحتاج فقط إلى رقم هاتفك المسجل أو عنوان بريدك الإلكتروني. وسنرسل لك بيانات الدخول.";
+////Phone Number
+"ppd-iV-FIA.placeholder" = "رقم الهاتف. على سبيل المثال 971xxxxxxxxx";
+////Or
+"Xeg-tS-awp.text" = "أو";
+////Email
+"6PU-2z-SOW.placeholder" = "البريد الإلكتروني";
+"Hj2-sz-eb9.normalTitle" = "إرسال";
