@@ -455,12 +455,12 @@ class ProfileDetailVC: UIViewController, UITableViewDelegate,UITableViewDataSour
 
             profileInfoKeys.append("height".localized)
             profileInfoValues.append(self.memberDetail?.heightAR ?? "notAvailable".localized )
+            
+            profileInfoKeys.append("bodyType".localized)
+            profileInfoValues.append(self.memberDetail?.bodyTypeAR ?? "notAvailable".localized )
 
             //this information can only be seen by consultant of his own member and if current user is looking at his own profile
             if (!toShowLimitedProfile){
-                profileInfoKeys.append("bodyType".localized)
-                profileInfoValues.append(self.memberDetail?.bodyTypeAR ?? "notAvailable".localized )
-                
                 profileInfoKeys.append("bodyWeight".localized)
                 profileInfoValues.append(self.memberDetail?.bodyWeightAR ?? "notAvailable".localized )
 
@@ -477,11 +477,13 @@ class ProfileDetailVC: UIViewController, UITableViewDelegate,UITableViewDataSour
             profileInfoKeys.append("drivingLicense".localized)
             profileInfoValues.append(self.memberDetail?.licenseIdAR ?? "notAvailable".localized )
             
+            profileInfoKeys.append("educationLevel".localized)
+            profileInfoValues.append(self.memberDetail?.educationLevelAR ?? "notAvailable".localized )
+            
             //Step 3
             //this information can only be seen by consultant of his own member and if current user is looking at his own profile
             if (!toShowLimitedProfile){
-                profileInfoKeys.append("educationLevel".localized)
-                profileInfoValues.append(self.memberDetail?.educationLevelAR ?? "notAvailable".localized )
+                
 
                 profileInfoKeys.append("religionCommitment".localized)
                 profileInfoValues.append(self.memberDetail?.religionCommitmentAR ?? "notAvailable".localized )
@@ -495,6 +497,12 @@ class ProfileDetailVC: UIViewController, UITableViewDelegate,UITableViewDataSour
             profileInfoKeys.append("isWorking".localized)
             profileInfoValues.append(self.memberDetail?.isWorkingAR ?? "notAvailable".localized )
 
+            profileInfoKeys.append("isDisease".localized)
+            profileInfoValues.append(self.memberDetail?.isDiseaseAR ?? "notAvailable".localized )
+
+            profileInfoKeys.append("diseaseName".localized)
+            profileInfoValues.append(self.memberDetail?.diseaseName ?? "notAvailable".localized )
+            
             //this information can only be seen by consultant of his own member and if current user is looking at his own profile
             if (!toShowLimitedProfile){
                 //If social status is not equal to single then ask or haschildren, numberOfChildren and reproductions
@@ -525,12 +533,6 @@ class ProfileDetailVC: UIViewController, UITableViewDelegate,UITableViewDataSour
                 }
                 profileInfoKeys.append("annualIncome".localized)
                 profileInfoValues.append(self.memberDetail?.annualIncomeAR ?? "notAvailable".localized )
-
-                profileInfoKeys.append("isDisease".localized)
-                profileInfoValues.append(self.memberDetail?.isDiseaseAR ?? "notAvailable".localized )
-
-                profileInfoKeys.append("diseaseName".localized)
-                profileInfoValues.append(self.memberDetail?.diseaseName ?? "notAvailable".localized )
 
                 // Step 4
                 //Showing this field on step 4 only for males
@@ -716,11 +718,11 @@ class ProfileDetailVC: UIViewController, UITableViewDelegate,UITableViewDataSour
             profileInfoKeys.append("height".localized)
             profileInfoValues.append(self.memberDetail?.heightEN ?? "notAvailable".localized )
             
+            profileInfoKeys.append("bodyType".localized)
+            profileInfoValues.append(self.memberDetail?.bodyTypeEN ?? "notAvailable".localized )
+            
             //this information can only be seen by consultant of his own member and if current user is looking at his own profile
             if (!toShowLimitedProfile){
-                profileInfoKeys.append("bodyType".localized)
-                profileInfoValues.append(self.memberDetail?.bodyTypeEN ?? "notAvailable".localized )
-
                 profileInfoKeys.append("bodyWeight".localized)
                 profileInfoValues.append(self.memberDetail?.bodyWeightEN ?? "notAvailable".localized )
                 
@@ -754,6 +756,12 @@ class ProfileDetailVC: UIViewController, UITableViewDelegate,UITableViewDataSour
             profileInfoKeys.append("isWorking".localized)
             profileInfoValues.append(self.memberDetail?.isWorkingEN ?? "notAvailable".localized )
 
+            profileInfoKeys.append("isDisease".localized)
+            profileInfoValues.append(self.memberDetail?.isDiseaseEN ?? "notAvailable".localized )
+
+            profileInfoKeys.append("diseaseName".localized)
+            profileInfoValues.append(( self.memberDetail?.diseaseName ) ?? "notAvailable".localized )
+            
             //this information can only be seen by consultant of his own member and if current user is looking at his own profile
             if (!toShowLimitedProfile){
                 //If social status is not equal to single then ask or haschildren, numberOfChildren and reproductions
@@ -784,12 +792,6 @@ class ProfileDetailVC: UIViewController, UITableViewDelegate,UITableViewDataSour
                 }
                 profileInfoKeys.append("annualIncome".localized)
                 profileInfoValues.append(self.memberDetail?.annualIncomeEN ?? "notAvailable".localized )
-
-                profileInfoKeys.append("isDisease".localized)
-                profileInfoValues.append(self.memberDetail?.isDiseaseEN ?? "notAvailable".localized )
-
-                profileInfoKeys.append("diseaseName".localized)
-                profileInfoValues.append(( self.memberDetail?.diseaseName ) ?? "notAvailable".localized )
 
                 // Step 4
                 //Showing this field on step 4 only for males
@@ -1386,6 +1388,9 @@ class ProfileDetailVC: UIViewController, UITableViewDelegate,UITableViewDataSour
                 }
                 if let status = response["Status"] as? Int {
                     if status == 1 {
+                        if let attempts = response["Attempts"] as? Int {    //take the fresh value of number of refuse/approve attempts of the user
+                            self.memberDetail?.attempts = attempts
+                        }
                         if let matchings = response["MatchMemberList"] as? [Dictionary<String,AnyObject>] {
                             if matchings.count == 0 {
                                 Utility.showAlert(title: "alert".localized, withMessage: "no_match_found".localized, withNavigation: self)
