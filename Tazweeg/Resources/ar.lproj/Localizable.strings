@@ -169,7 +169,8 @@
 "married" = "تزويج";
 "approve" = "موافق";
 "match" = "متوافق";
-"refused" = "غير متوافق";
+"refusedByMember" = "رفض بواسطة العضو";
+"refusedByOtherMember" = "تم رفض بواسطة العضو الآخر";
 "refuse" = "رفض";
 "edit" = "تعديل";
 "delete" = "حذف";

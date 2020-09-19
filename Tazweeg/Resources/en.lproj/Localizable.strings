@@ -169,7 +169,8 @@
 "married" = "Married";
 "approve" = "Approve";
 "match" = "Match";
-"refused" = "Refused";
+"refusedByMember" = "Refused By Member";
+"refusedByOtherMember" = "Refused By Other Member";
 "refuse" = "Refuse";
 "edit" = "Edit";
 "delete" = "Delete";

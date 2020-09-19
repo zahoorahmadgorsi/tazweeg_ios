@@ -3256,8 +3256,8 @@
             timestampString = "587910309.9576451"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "294"
-            endingLineNumber = "294"
+            startingLineNumber = "295"
+            endingLineNumber = "295"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -3273,8 +3273,8 @@
             timestampString = "587910309.957703"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "433"
-            endingLineNumber = "433"
+            startingLineNumber = "434"
+            endingLineNumber = "434"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -3290,8 +3290,8 @@
             timestampString = "587910309.957751"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "463"
-            endingLineNumber = "463"
+            startingLineNumber = "464"
+            endingLineNumber = "464"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -3307,8 +3307,8 @@
             timestampString = "587910309.957798"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "464"
-            endingLineNumber = "464"
+            startingLineNumber = "465"
+            endingLineNumber = "465"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -3324,8 +3324,8 @@
             timestampString = "587910309.957844"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "470"
-            endingLineNumber = "470"
+            startingLineNumber = "471"
+            endingLineNumber = "471"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -3341,8 +3341,8 @@
             timestampString = "587910309.95789"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "535"
-            endingLineNumber = "535"
+            startingLineNumber = "536"
+            endingLineNumber = "536"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -4459,8 +4459,8 @@
             timestampString = "587910309.9587801"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "272"
-            endingLineNumber = "272"
+            startingLineNumber = "273"
+            endingLineNumber = "273"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -4918,8 +4918,8 @@
             timestampString = "587910309.959252"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "538"
-            endingLineNumber = "538"
+            startingLineNumber = "539"
+            endingLineNumber = "539"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -4969,8 +4969,8 @@
             timestampString = "587910309.9593641"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "501"
-            endingLineNumber = "501"
+            startingLineNumber = "502"
+            endingLineNumber = "502"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -6023,8 +6023,8 @@
             timestampString = "587910309.960131"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "316"
-            endingLineNumber = "316"
+            startingLineNumber = "317"
+            endingLineNumber = "317"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -6040,8 +6040,8 @@
             timestampString = "587910309.960179"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "454"
-            endingLineNumber = "454"
+            startingLineNumber = "455"
+            endingLineNumber = "455"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -6244,8 +6244,8 @@
             timestampString = "587910309.9603699"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "403"
-            endingLineNumber = "403"
+            startingLineNumber = "404"
+            endingLineNumber = "404"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -6261,8 +6261,8 @@
             timestampString = "587910309.960417"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "389"
-            endingLineNumber = "389"
+            startingLineNumber = "390"
+            endingLineNumber = "390"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -6278,8 +6278,8 @@
             timestampString = "587910309.960464"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "553"
-            endingLineNumber = "553"
+            startingLineNumber = "554"
+            endingLineNumber = "554"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -7111,8 +7111,8 @@
             timestampString = "587910309.961129"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "556"
-            endingLineNumber = "556"
+            startingLineNumber = "557"
+            endingLineNumber = "557"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -7128,8 +7128,8 @@
             timestampString = "587910309.961177"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "822"
-            endingLineNumber = "822"
+            startingLineNumber = "824"
+            endingLineNumber = "824"
             landmarkName = "encode(with:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -7145,8 +7145,8 @@
             timestampString = "587910309.9612221"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "930"
-            endingLineNumber = "930"
+            startingLineNumber = "936"
+            endingLineNumber = "936"
             landmarkName = "init(coder:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -12759,8 +12759,8 @@
             timestampString = "587910309.9657201"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "853"
-            endingLineNumber = "853"
+            startingLineNumber = "855"
+            endingLineNumber = "855"
             landmarkName = "encode(with:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -12776,8 +12776,8 @@
             timestampString = "587910309.9657691"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "299"
-            endingLineNumber = "299"
+            startingLineNumber = "300"
+            endingLineNumber = "300"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -12861,8 +12861,8 @@
             timestampString = "587910309.965868"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "284"
-            endingLineNumber = "284"
+            startingLineNumber = "285"
+            endingLineNumber = "285"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -12878,8 +12878,8 @@
             timestampString = "587910309.965927"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "826"
-            endingLineNumber = "826"
+            startingLineNumber = "828"
+            endingLineNumber = "828"
             landmarkName = "encode(with:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -12895,8 +12895,8 @@
             timestampString = "587910309.965974"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "829"
-            endingLineNumber = "829"
+            startingLineNumber = "831"
+            endingLineNumber = "831"
             landmarkName = "encode(with:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -12912,8 +12912,8 @@
             timestampString = "587910309.96602"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "832"
-            endingLineNumber = "832"
+            startingLineNumber = "834"
+            endingLineNumber = "834"
             landmarkName = "encode(with:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -12929,8 +12929,8 @@
             timestampString = "587910309.966112"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "849"
-            endingLineNumber = "849"
+            startingLineNumber = "851"
+            endingLineNumber = "851"
             landmarkName = "encode(with:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -12946,8 +12946,8 @@
             timestampString = "587910309.966157"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "933"
-            endingLineNumber = "933"
+            startingLineNumber = "939"
+            endingLineNumber = "939"
             landmarkName = "init(coder:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -12963,8 +12963,8 @@
             timestampString = "587910309.966202"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "934"
-            endingLineNumber = "934"
+            startingLineNumber = "940"
+            endingLineNumber = "940"
             landmarkName = "init(coder:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -12980,8 +12980,8 @@
             timestampString = "587910309.966248"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "935"
-            endingLineNumber = "935"
+            startingLineNumber = "941"
+            endingLineNumber = "941"
             landmarkName = "init(coder:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -13133,8 +13133,8 @@
             timestampString = "587910309.9664381"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "276"
-            endingLineNumber = "276"
+            startingLineNumber = "277"
+            endingLineNumber = "277"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -13184,8 +13184,8 @@
             timestampString = "587910309.9665149"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "677"
-            endingLineNumber = "677"
+            startingLineNumber = "679"
+            endingLineNumber = "679"
             landmarkName = "encode(with:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -13201,8 +13201,8 @@
             timestampString = "587910309.966562"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "878"
-            endingLineNumber = "878"
+            startingLineNumber = "880"
+            endingLineNumber = "880"
             landmarkName = "encode(with:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -13252,8 +13252,8 @@
             timestampString = "587910309.966638"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "662"
-            endingLineNumber = "662"
+            startingLineNumber = "664"
+            endingLineNumber = "664"
             landmarkName = "encode(with:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -13269,8 +13269,8 @@
             timestampString = "587910309.9666851"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "873"
-            endingLineNumber = "873"
+            startingLineNumber = "875"
+            endingLineNumber = "875"
             landmarkName = "encode(with:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -13320,8 +13320,8 @@
             timestampString = "587910309.966761"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "880"
-            endingLineNumber = "880"
+            startingLineNumber = "882"
+            endingLineNumber = "882"
             landmarkName = "encode(with:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -13524,8 +13524,8 @@
             timestampString = "587910309.967157"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "507"
-            endingLineNumber = "507"
+            startingLineNumber = "508"
+            endingLineNumber = "508"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -13541,8 +13541,8 @@
             timestampString = "587910309.967203"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "494"
-            endingLineNumber = "494"
+            startingLineNumber = "495"
+            endingLineNumber = "495"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -13558,8 +13558,8 @@
             timestampString = "587910309.967249"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "496"
-            endingLineNumber = "496"
+            startingLineNumber = "497"
+            endingLineNumber = "497"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -13575,8 +13575,8 @@
             timestampString = "587910309.9672951"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "498"
-            endingLineNumber = "498"
+            startingLineNumber = "499"
+            endingLineNumber = "499"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -14015,8 +14015,8 @@
             timestampString = "587910309.967695"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "558"
-            endingLineNumber = "558"
+            startingLineNumber = "559"
+            endingLineNumber = "559"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -14540,8 +14540,8 @@
             timestampString = "587910309.96856"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "485"
-            endingLineNumber = "485"
+            startingLineNumber = "486"
+            endingLineNumber = "486"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -14557,8 +14557,8 @@
             timestampString = "587910309.9686069"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "481"
-            endingLineNumber = "481"
+            startingLineNumber = "482"
+            endingLineNumber = "482"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -15478,8 +15478,8 @@
             filePath = "Tazweeg/Models/Member.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "342"
-            endingLineNumber = "342"
+            startingLineNumber = "343"
+            endingLineNumber = "343"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -15542,8 +15542,8 @@
             filePath = "Tazweeg/Models/Member.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "866"
-            endingLineNumber = "866"
+            startingLineNumber = "868"
+            endingLineNumber = "868"
             landmarkName = "encode(with:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -15558,8 +15558,8 @@
             filePath = "Tazweeg/Models/Member.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "867"
-            endingLineNumber = "867"
+            startingLineNumber = "869"
+            endingLineNumber = "869"
             landmarkName = "encode(with:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -15574,8 +15574,8 @@
             filePath = "Tazweeg/Models/Member.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "339"
-            endingLineNumber = "339"
+            startingLineNumber = "340"
+            endingLineNumber = "340"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -15590,8 +15590,8 @@
             filePath = "Tazweeg/Models/Member.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "343"
-            endingLineNumber = "343"
+            startingLineNumber = "344"
+            endingLineNumber = "344"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -17010,8 +17010,8 @@
             filePath = "Tazweeg/Models/Member.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "564"
-            endingLineNumber = "564"
+            startingLineNumber = "565"
+            endingLineNumber = "565"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -17026,8 +17026,8 @@
             filePath = "Tazweeg/Models/Member.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "940"
-            endingLineNumber = "940"
+            startingLineNumber = "946"
+            endingLineNumber = "946"
             landmarkName = "init(coder:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -17042,8 +17042,8 @@
             filePath = "Tazweeg/Models/Member.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "838"
-            endingLineNumber = "838"
+            startingLineNumber = "840"
+            endingLineNumber = "840"
             landmarkName = "encode(with:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -19282,8 +19282,8 @@
             filePath = "Tazweeg/Models/Member.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "562"
-            endingLineNumber = "562"
+            startingLineNumber = "563"
+            endingLineNumber = "563"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -20946,8 +20946,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "105"
-            endingLineNumber = "105"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -20962,8 +20962,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "294"
-            endingLineNumber = "294"
+            startingLineNumber = "293"
+            endingLineNumber = "293"
             landmarkName = "getMemberDetail(isRefresh:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -20978,8 +20978,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "244"
-            endingLineNumber = "244"
+            startingLineNumber = "243"
+            endingLineNumber = "243"
             landmarkName = "ProfileDetailVC"
             landmarkType = "3">
          </BreakpointContent>
@@ -21026,8 +21026,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1423"
-            endingLineNumber = "1423"
+            startingLineNumber = "1429"
+            endingLineNumber = "1429"
             landmarkName = "loadChoosingMatchingsMarried(isRefresh:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -21042,8 +21042,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1480"
-            endingLineNumber = "1480"
+            startingLineNumber = "1486"
+            endingLineNumber = "1486"
             landmarkName = "selectedIndexChanged(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -21058,8 +21058,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1302"
-            endingLineNumber = "1302"
+            startingLineNumber = "1304"
+            endingLineNumber = "1304"
             landmarkName = "tableView(_:moveRowAt:to:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -21074,8 +21074,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1365"
-            endingLineNumber = "1365"
+            startingLineNumber = "1367"
+            endingLineNumber = "1367"
             landmarkName = "getChoosingsMatchingsMarried(isRefresh:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -21090,8 +21090,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1366"
-            endingLineNumber = "1366"
+            startingLineNumber = "1368"
+            endingLineNumber = "1368"
             landmarkName = "getChoosingsMatchingsMarried(isRefresh:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -21106,8 +21106,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "221"
-            endingLineNumber = "221"
+            startingLineNumber = "220"
+            endingLineNumber = "220"
             landmarkName = "ProfileDetailVC"
             landmarkType = "3">
          </BreakpointContent>
@@ -21122,8 +21122,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "133"
-            endingLineNumber = "133"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
             landmarkName = "viewWillAppear(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -21202,8 +21202,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1552"
-            endingLineNumber = "1552"
+            startingLineNumber = "1558"
+            endingLineNumber = "1558"
             landmarkName = "btnCallYourConsultantTapped()"
             landmarkType = "7">
             <Locations>
@@ -21250,8 +21250,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "330"
-            endingLineNumber = "330"
+            startingLineNumber = "329"
+            endingLineNumber = "329"
             landmarkName = "populateProfileAndRequiredArrays()"
             landmarkType = "7">
          </BreakpointContent>
@@ -21490,8 +21490,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1545"
-            endingLineNumber = "1545"
+            startingLineNumber = "1551"
+            endingLineNumber = "1551"
             landmarkName = "viewCompleteProfileTapped()"
             landmarkType = "7">
          </BreakpointContent>
@@ -21506,8 +21506,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "340"
-            endingLineNumber = "340"
+            startingLineNumber = "339"
+            endingLineNumber = "339"
             landmarkName = "populateProfileAndRequiredArrays()"
             landmarkType = "7">
          </BreakpointContent>
@@ -21522,8 +21522,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "332"
-            endingLineNumber = "332"
+            startingLineNumber = "331"
+            endingLineNumber = "331"
             landmarkName = "populateProfileAndRequiredArrays()"
             landmarkType = "7">
          </BreakpointContent>
@@ -21538,8 +21538,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1596"
-            endingLineNumber = "1596"
+            startingLineNumber = "1602"
+            endingLineNumber = "1602"
             landmarkName = "changeRightBarButton(title:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -21548,6 +21548,22 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "BD5FF3EF-3EDC-42D0-AA6E-C09C9C27BD62"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7AB31AE-757A-4674-9719-4ACE13491CC3"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -21563,22 +21579,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "C7AB31AE-757A-4674-9719-4ACE13491CC3"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "176"
-            endingLineNumber = "176"
-            landmarkName = "viewWillAppear(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "673D399A-BB82-405D-8C3A-0FE6C9D85D8E"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -21586,8 +21586,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "178"
-            endingLineNumber = "178"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
             landmarkName = "viewWillAppear(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22018,8 +22018,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "92"
-            endingLineNumber = "92"
+            startingLineNumber = "91"
+            endingLineNumber = "91"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -22034,8 +22034,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "70"
-            endingLineNumber = "70"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -22050,8 +22050,8 @@
             filePath = "Tazweeg/Models/Member.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "978"
-            endingLineNumber = "978"
+            startingLineNumber = "984"
+            endingLineNumber = "984"
             landmarkName = "init(coder:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22066,8 +22066,8 @@
             filePath = "Tazweeg/Models/Member.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "576"
-            endingLineNumber = "576"
+            startingLineNumber = "577"
+            endingLineNumber = "577"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22082,8 +22082,8 @@
             filePath = "Tazweeg/Models/Member.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "865"
-            endingLineNumber = "865"
+            startingLineNumber = "867"
+            endingLineNumber = "867"
             landmarkName = "encode(with:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22178,8 +22178,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "875"
-            endingLineNumber = "875"
+            startingLineNumber = "874"
+            endingLineNumber = "874"
             landmarkName = "populateProfileAndRequiredArrays()"
             landmarkType = "7">
          </BreakpointContent>
@@ -22194,8 +22194,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "617"
-            endingLineNumber = "617"
+            startingLineNumber = "616"
+            endingLineNumber = "616"
             landmarkName = "populateProfileAndRequiredArrays()"
             landmarkType = "7">
          </BreakpointContent>
@@ -22210,8 +22210,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "618"
-            endingLineNumber = "618"
+            startingLineNumber = "617"
+            endingLineNumber = "617"
             landmarkName = "populateProfileAndRequiredArrays()"
             landmarkType = "7">
          </BreakpointContent>
@@ -22306,8 +22306,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1584"
-            endingLineNumber = "1584"
+            startingLineNumber = "1590"
+            endingLineNumber = "1590"
             landmarkName = "editTapped()"
             landmarkType = "7">
          </BreakpointContent>
@@ -22322,8 +22322,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1562"
-            endingLineNumber = "1562"
+            startingLineNumber = "1568"
+            endingLineNumber = "1568"
             landmarkName = "editTapped()"
             landmarkType = "7">
          </BreakpointContent>
@@ -22338,8 +22338,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1565"
-            endingLineNumber = "1565"
+            startingLineNumber = "1571"
+            endingLineNumber = "1571"
             landmarkName = "editTapped()"
             landmarkType = "7">
          </BreakpointContent>
@@ -22354,8 +22354,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "322"
-            endingLineNumber = "322"
+            startingLineNumber = "321"
+            endingLineNumber = "321"
             landmarkName = "populateProfileAndRequiredArrays()"
             landmarkType = "7">
          </BreakpointContent>
@@ -22386,8 +22386,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1008"
-            endingLineNumber = "1008"
+            startingLineNumber = "1007"
+            endingLineNumber = "1007"
             landmarkName = "tableView(_:cellForRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22402,8 +22402,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1018"
-            endingLineNumber = "1018"
+            startingLineNumber = "1017"
+            endingLineNumber = "1017"
             landmarkName = "tableView(_:cellForRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22418,8 +22418,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "226"
-            endingLineNumber = "226"
+            startingLineNumber = "225"
+            endingLineNumber = "225"
             landmarkName = "refreshTableviewData(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22434,8 +22434,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1304"
-            endingLineNumber = "1304"
+            startingLineNumber = "1306"
+            endingLineNumber = "1306"
             landmarkName = "tableView(_:moveRowAt:to:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22450,8 +22450,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1367"
-            endingLineNumber = "1367"
+            startingLineNumber = "1369"
+            endingLineNumber = "1369"
             landmarkName = "getChoosingsMatchingsMarried(isRefresh:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22466,8 +22466,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1380"
-            endingLineNumber = "1380"
+            startingLineNumber = "1382"
+            endingLineNumber = "1382"
             landmarkName = "loadChoosingMatchingsMarried(isRefresh:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22476,22 +22476,6 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "52DD7208-0B82-4EC0-BB60-2E34B7F914F1"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1381"
-            endingLineNumber = "1381"
-            landmarkName = "loadChoosingMatchingsMarried(isRefresh:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "67CAC8C7-8758-4A72-B940-C6C89CD34474"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -22507,6 +22491,22 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
+            uuid = "67CAC8C7-8758-4A72-B940-C6C89CD34474"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1385"
+            endingLineNumber = "1385"
+            landmarkName = "loadChoosingMatchingsMarried(isRefresh:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
             uuid = "6272A9CF-B09E-434C-84B5-0A7D40E8CB1B"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -22514,8 +22514,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1386"
-            endingLineNumber = "1386"
+            startingLineNumber = "1388"
+            endingLineNumber = "1388"
             landmarkName = "loadChoosingMatchingsMarried(isRefresh:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22530,8 +22530,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1396"
-            endingLineNumber = "1396"
+            startingLineNumber = "1398"
+            endingLineNumber = "1398"
             landmarkName = "loadChoosingMatchingsMarried(isRefresh:)"
             landmarkType = "7">
             <Locations>
@@ -22578,8 +22578,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1387"
-            endingLineNumber = "1387"
+            startingLineNumber = "1389"
+            endingLineNumber = "1389"
             landmarkName = "loadChoosingMatchingsMarried(isRefresh:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22594,8 +22594,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1395"
-            endingLineNumber = "1395"
+            startingLineNumber = "1397"
+            endingLineNumber = "1397"
             landmarkName = "loadChoosingMatchingsMarried(isRefresh:)"
             landmarkType = "7">
             <Locations>
@@ -22687,8 +22687,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1397"
-            endingLineNumber = "1397"
+            startingLineNumber = "1399"
+            endingLineNumber = "1399"
             landmarkName = "loadChoosingMatchingsMarried(isRefresh:)"
             landmarkType = "7">
             <Locations>
@@ -22735,8 +22735,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1390"
-            endingLineNumber = "1390"
+            startingLineNumber = "1392"
+            endingLineNumber = "1392"
             landmarkName = "loadChoosingMatchingsMarried(isRefresh:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22751,8 +22751,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1398"
-            endingLineNumber = "1398"
+            startingLineNumber = "1400"
+            endingLineNumber = "1400"
             landmarkName = "loadChoosingMatchingsMarried(isRefresh:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22767,8 +22767,8 @@
             filePath = "Tazweeg/Models/Member.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "883"
-            endingLineNumber = "883"
+            startingLineNumber = "885"
+            endingLineNumber = "885"
             landmarkName = "encode(with:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22783,8 +22783,8 @@
             filePath = "Tazweeg/Models/Member.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "886"
-            endingLineNumber = "886"
+            startingLineNumber = "888"
+            endingLineNumber = "888"
             landmarkName = "encode(with:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22799,8 +22799,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1070"
-            endingLineNumber = "1070"
+            startingLineNumber = "1069"
+            endingLineNumber = "1069"
             landmarkName = "tableView(_:canEditRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22815,8 +22815,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1083"
-            endingLineNumber = "1083"
+            startingLineNumber = "1082"
+            endingLineNumber = "1082"
             landmarkName = "tableView(_:titleForDeleteConfirmationButtonForRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22831,8 +22831,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1234"
-            endingLineNumber = "1234"
+            startingLineNumber = "1236"
+            endingLineNumber = "1236"
             landmarkName = "tableView(_:commit:forRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22847,8 +22847,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1237"
-            endingLineNumber = "1237"
+            startingLineNumber = "1239"
+            endingLineNumber = "1239"
             landmarkName = "tableView(_:commit:forRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22863,8 +22863,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1245"
-            endingLineNumber = "1245"
+            startingLineNumber = "1247"
+            endingLineNumber = "1247"
             landmarkName = "tableView(_:commit:forRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22879,8 +22879,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1248"
-            endingLineNumber = "1248"
+            startingLineNumber = "1250"
+            endingLineNumber = "1250"
             landmarkName = "tableView(_:commit:forRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22895,8 +22895,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1254"
-            endingLineNumber = "1254"
+            startingLineNumber = "1256"
+            endingLineNumber = "1256"
             landmarkName = "tableView(_:commit:forRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22905,6 +22905,22 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "C6C611EA-800B-46B0-AB94-FFA9F76253C1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1207"
+            endingLineNumber = "1207"
+            landmarkName = "tableView(_:commit:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C92042A7-F085-4D4D-A026-E70891B375FD"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -22920,31 +22936,15 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "C92042A7-F085-4D4D-A026-E70891B375FD"
+            uuid = "CBFE94CE-AA4A-4AD9-B4C4-844F70C43241"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1203"
-            endingLineNumber = "1203"
-            landmarkName = "tableView(_:commit:forRowAt:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "CBFE94CE-AA4A-4AD9-B4C4-844F70C43241"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1202"
-            endingLineNumber = "1202"
+            startingLineNumber = "1204"
+            endingLineNumber = "1204"
             landmarkName = "tableView(_:commit:forRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22959,8 +22959,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1241"
-            endingLineNumber = "1241"
+            startingLineNumber = "1243"
+            endingLineNumber = "1243"
             landmarkName = "tableView(_:commit:forRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22975,8 +22975,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1019"
-            endingLineNumber = "1019"
+            startingLineNumber = "1018"
+            endingLineNumber = "1018"
             landmarkName = "tableView(_:cellForRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -22991,8 +22991,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1008"
-            endingLineNumber = "1008"
+            startingLineNumber = "1007"
+            endingLineNumber = "1007"
             landmarkName = "tableView(_:cellForRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -23001,6 +23001,22 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "7D7D7AEE-EA6D-4F02-9B60-E39CC07EE85E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1049"
+            endingLineNumber = "1049"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2EA605B0-93E2-4085-A08F-EC755AD623DD"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -23016,22 +23032,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "2EA605B0-93E2-4085-A08F-EC755AD623DD"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1051"
-            endingLineNumber = "1051"
-            landmarkName = "tableView(_:cellForRowAt:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "E55ECC62-249E-423C-9FA4-FFC632A03966"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -23039,8 +23039,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1425"
-            endingLineNumber = "1425"
+            startingLineNumber = "1431"
+            endingLineNumber = "1431"
             landmarkName = "loadChoosingMatchingsMarried(isRefresh:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -23055,8 +23055,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1382"
-            endingLineNumber = "1382"
+            startingLineNumber = "1384"
+            endingLineNumber = "1384"
             landmarkName = "loadChoosingMatchingsMarried(isRefresh:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -23071,8 +23071,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1629"
-            endingLineNumber = "1629"
+            startingLineNumber = "1635"
+            endingLineNumber = "1635"
             landmarkName = "btnCommentsTapped(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -23087,8 +23087,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1286"
-            endingLineNumber = "1286"
+            startingLineNumber = "1288"
+            endingLineNumber = "1288"
             landmarkName = "tableView(_:moveRowAt:to:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -23103,8 +23103,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "262"
-            endingLineNumber = "262"
+            startingLineNumber = "261"
+            endingLineNumber = "261"
             landmarkName = "getMemberDetail(isRefresh:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -23119,8 +23119,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "949"
-            endingLineNumber = "949"
+            startingLineNumber = "948"
+            endingLineNumber = "948"
             landmarkName = "tableView(_:didSelectRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -23151,6 +23151,150 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1751"
+            endingLineNumber = "1751"
+            landmarkName = "tableView(_:viewForHeaderInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E68D1F2F-3FE7-483E-B3F4-B41C75509996"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1732"
+            endingLineNumber = "1732"
+            landmarkName = "tableView(_:viewForFooterInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "018D790C-BC61-4626-9D9F-85197511B01A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1756"
+            endingLineNumber = "1756"
+            landmarkName = "tableView(_:heightForHeaderInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A7F9185-6446-4939-9BFB-E856749AFAD5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "939"
+            endingLineNumber = "939"
+            landmarkName = "tableView(_:didSelectRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A90217C2-305C-4AFA-B169-79125915EDBD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1006"
+            endingLineNumber = "1006"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "47368F23-3DC9-4244-A0E0-31B3539D639D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1096"
+            endingLineNumber = "1096"
+            landmarkName = "tableView(_:leadingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1AA2B5D-F09C-4DFB-B159-34EA935FAEB5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1201"
+            endingLineNumber = "1201"
+            landmarkName = "tableView(_:commit:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5511A927-99C4-47F4-AC5D-726081C8AFF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1415"
+            endingLineNumber = "1415"
+            landmarkName = "loadChoosingMatchingsMarried(isRefresh:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06247C36-7A70-437A-8784-3ADB77C86FA3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1407"
+            endingLineNumber = "1407"
+            landmarkName = "loadChoosingMatchingsMarried(isRefresh:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C60B0556-48F5-462E-8DC0-DAFAFA3598ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
             startingLineNumber = "1745"
             endingLineNumber = "1745"
             landmarkName = "tableView(_:viewForHeaderInSection:)"
@@ -23160,7 +23304,7 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "E68D1F2F-3FE7-483E-B3F4-B41C75509996"
+            uuid = "AFF34C52-E8F0-4CD4-8A02-539768A98B99"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -23176,150 +23320,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "018D790C-BC61-4626-9D9F-85197511B01A"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1750"
-            endingLineNumber = "1750"
-            landmarkName = "tableView(_:heightForHeaderInSection:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "9A7F9185-6446-4939-9BFB-E856749AFAD5"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "940"
-            endingLineNumber = "940"
-            landmarkName = "tableView(_:didSelectRowAt:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "A90217C2-305C-4AFA-B169-79125915EDBD"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1007"
-            endingLineNumber = "1007"
-            landmarkName = "tableView(_:cellForRowAt:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "47368F23-3DC9-4244-A0E0-31B3539D639D"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1097"
-            endingLineNumber = "1097"
-            landmarkName = "tableView(_:leadingSwipeActionsConfigurationForRowAt:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "D1AA2B5D-F09C-4DFB-B159-34EA935FAEB5"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1199"
-            endingLineNumber = "1199"
-            landmarkName = "tableView(_:commit:forRowAt:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "5511A927-99C4-47F4-AC5D-726081C8AFF6"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1412"
-            endingLineNumber = "1412"
-            landmarkName = "loadChoosingMatchingsMarried(isRefresh:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "06247C36-7A70-437A-8784-3ADB77C86FA3"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1405"
-            endingLineNumber = "1405"
-            landmarkName = "loadChoosingMatchingsMarried(isRefresh:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "C60B0556-48F5-462E-8DC0-DAFAFA3598ED"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1739"
-            endingLineNumber = "1739"
-            landmarkName = "tableView(_:viewForHeaderInSection:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "AFF34C52-E8F0-4CD4-8A02-539768A98B99"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1720"
-            endingLineNumber = "1720"
-            landmarkName = "tableView(_:viewForFooterInSection:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "75733F31-4481-4310-A326-156C9E4D7159"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -23327,8 +23327,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1699"
-            endingLineNumber = "1699"
+            startingLineNumber = "1705"
+            endingLineNumber = "1705"
             landmarkName = "tableView(_:numberOfRowsInSection:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -23343,8 +23343,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1457"
-            endingLineNumber = "1457"
+            startingLineNumber = "1463"
+            endingLineNumber = "1463"
             landmarkName = "selectedIndexChanged(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -23359,8 +23359,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1479"
-            endingLineNumber = "1479"
+            startingLineNumber = "1485"
+            endingLineNumber = "1485"
             landmarkName = "selectedIndexChanged(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -23375,8 +23375,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1740"
-            endingLineNumber = "1740"
+            startingLineNumber = "1746"
+            endingLineNumber = "1746"
             landmarkName = "tableView(_:viewForHeaderInSection:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -23391,8 +23391,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1695"
-            endingLineNumber = "1695"
+            startingLineNumber = "1701"
+            endingLineNumber = "1701"
             landmarkName = "tableView(_:numberOfRowsInSection:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -23407,8 +23407,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1697"
-            endingLineNumber = "1697"
+            startingLineNumber = "1703"
+            endingLineNumber = "1703"
             landmarkName = "tableView(_:numberOfRowsInSection:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -23423,8 +23423,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1694"
-            endingLineNumber = "1694"
+            startingLineNumber = "1700"
+            endingLineNumber = "1700"
             landmarkName = "tableView(_:numberOfRowsInSection:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -23439,8 +23439,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1680"
-            endingLineNumber = "1680"
+            startingLineNumber = "1686"
+            endingLineNumber = "1686"
             landmarkName = "tableView(_:numberOfRowsInSection:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -23455,8 +23455,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1758"
-            endingLineNumber = "1758"
+            startingLineNumber = "1764"
+            endingLineNumber = "1764"
             landmarkName = "numberOfSections(in:)"
             landmarkType = "7">
             <Locations>
@@ -23599,8 +23599,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "224"
-            endingLineNumber = "224"
+            startingLineNumber = "223"
+            endingLineNumber = "223"
             landmarkName = "refreshTableviewData(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -23823,8 +23823,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1159"
-            endingLineNumber = "1159"
+            startingLineNumber = "1158"
+            endingLineNumber = "1158"
             landmarkName = "tableView(_:leadingSwipeActionsConfigurationForRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -23839,8 +23839,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1115"
-            endingLineNumber = "1115"
+            startingLineNumber = "1114"
+            endingLineNumber = "1114"
             landmarkName = "tableView(_:leadingSwipeActionsConfigurationForRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -23849,70 +23849,6 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "A21EC30B-F9F8-4560-8E1F-059F0E9E3715"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1091"
-            endingLineNumber = "1091"
-            landmarkName = "tableView(_:leadingSwipeActionsConfigurationForRowAt:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "431A909C-B453-4FD8-AEDA-EAA17CDEFC79"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1093"
-            endingLineNumber = "1093"
-            landmarkName = "tableView(_:leadingSwipeActionsConfigurationForRowAt:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "50897D69-51E2-495E-9DA4-67E07C9690F0"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1094"
-            endingLineNumber = "1094"
-            landmarkName = "tableView(_:leadingSwipeActionsConfigurationForRowAt:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "C2A6EC8F-9B60-4E8E-BCCB-9169640B139B"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1195"
-            endingLineNumber = "1195"
-            landmarkName = "tableView(_:commit:forRowAt:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "92EC8474-47D0-4668-A503-410C82457D86"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -23928,6 +23864,70 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
+            uuid = "431A909C-B453-4FD8-AEDA-EAA17CDEFC79"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1092"
+            endingLineNumber = "1092"
+            landmarkName = "tableView(_:leadingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "50897D69-51E2-495E-9DA4-67E07C9690F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1093"
+            endingLineNumber = "1093"
+            landmarkName = "tableView(_:leadingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2A6EC8F-9B60-4E8E-BCCB-9169640B139B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1194"
+            endingLineNumber = "1194"
+            landmarkName = "tableView(_:commit:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "92EC8474-47D0-4668-A503-410C82457D86"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1089"
+            endingLineNumber = "1089"
+            landmarkName = "tableView(_:leadingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
             uuid = "AEC3132F-9729-4387-B08F-BE480911F432"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -23935,8 +23935,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1078"
-            endingLineNumber = "1078"
+            startingLineNumber = "1077"
+            endingLineNumber = "1077"
             landmarkName = "tableView(_:titleForDeleteConfirmationButtonForRowAt:)"
             landmarkType = "7">
             <Locations>
@@ -23983,8 +23983,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1061"
-            endingLineNumber = "1061"
+            startingLineNumber = "1060"
+            endingLineNumber = "1060"
             landmarkName = "tableView(_:canEditRowAt:)"
             landmarkType = "7">
             <Locations>
@@ -24061,8 +24061,8 @@
             filePath = "Tazweeg/Models/Member.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "892"
-            endingLineNumber = "892"
+            startingLineNumber = "894"
+            endingLineNumber = "894"
             landmarkName = "encode(with:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -24077,8 +24077,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "106"
-            endingLineNumber = "106"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
             landmarkName = "viewDidLoad()"
             landmarkType = "7">
          </BreakpointContent>
@@ -24093,8 +24093,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "982"
-            endingLineNumber = "982"
+            startingLineNumber = "981"
+            endingLineNumber = "981"
             landmarkName = "tableView(_:cellForRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -24103,6 +24103,22 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "383CEAAB-85EE-4330-A508-6397681E03AC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "983"
+            endingLineNumber = "983"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "98BC91FA-ECDE-45C6-9425-891D9E4B6E51"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -24118,22 +24134,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "98BC91FA-ECDE-45C6-9425-891D9E4B6E51"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "985"
-            endingLineNumber = "985"
-            landmarkName = "tableView(_:cellForRowAt:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "1B69D77A-4E17-4406-88E2-47B0D2E5F056"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -24141,8 +24141,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "987"
-            endingLineNumber = "987"
+            startingLineNumber = "986"
+            endingLineNumber = "986"
             landmarkName = "tableView(_:cellForRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -24157,8 +24157,8 @@
             filePath = "Tazweeg/Models/Member.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "590"
-            endingLineNumber = "590"
+            startingLineNumber = "591"
+            endingLineNumber = "591"
             landmarkName = "init(fromDictionary:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -24173,8 +24173,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "274"
-            endingLineNumber = "274"
+            startingLineNumber = "273"
+            endingLineNumber = "273"
             landmarkName = "getMemberDetail(isRefresh:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -24189,8 +24189,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "281"
-            endingLineNumber = "281"
+            startingLineNumber = "280"
+            endingLineNumber = "280"
             landmarkName = "getMemberDetail(isRefresh:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -24221,8 +24221,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "282"
-            endingLineNumber = "282"
+            startingLineNumber = "281"
+            endingLineNumber = "281"
             landmarkName = "getMemberDetail(isRefresh:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -24237,8 +24237,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "136"
-            endingLineNumber = "136"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
             landmarkName = "viewWillAppear(_:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -24247,38 +24247,6 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "FCD8F41D-54AE-4897-AB36-491D2AA14800"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "185"
-            endingLineNumber = "185"
-            landmarkName = "viewWillAppear(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "C7B6889F-18A7-453C-8A04-A6902D8A633F"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "186"
-            endingLineNumber = "186"
-            landmarkName = "viewWillAppear(_:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "5392B843-4E00-471E-97F5-89945A0FC1D0"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -24294,6 +24262,38 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
+            uuid = "C7B6889F-18A7-453C-8A04-A6902D8A633F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "185"
+            endingLineNumber = "185"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5392B843-4E00-471E-97F5-89945A0FC1D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "183"
+            endingLineNumber = "183"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
             uuid = "E7E729D4-D065-40F6-9708-1AE2D0262E63"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -24301,8 +24301,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "246"
-            endingLineNumber = "246"
+            startingLineNumber = "245"
+            endingLineNumber = "245"
             landmarkName = "getMemberDetail(isRefresh:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -24311,6 +24311,70 @@
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
             uuid = "F069E91F-80D5-4EA8-A577-CB4BFCD9D305"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1119"
+            endingLineNumber = "1119"
+            landmarkName = "tableView(_:leadingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CD285A9E-327C-4882-8AA0-57806307AB7B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1163"
+            endingLineNumber = "1163"
+            landmarkName = "tableView(_:leadingSwipeActionsConfigurationForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F22C3D95-2B05-4BBF-879E-4F2D83EE343B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1252"
+            endingLineNumber = "1252"
+            landmarkName = "tableView(_:commit:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B43A6CFE-7F92-4FCB-8BD3-F35C65436FA7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1253"
+            endingLineNumber = "1253"
+            landmarkName = "tableView(_:commit:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C16345F5-D51A-4021-BB0A-D6134027324C"
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
@@ -24326,70 +24390,6 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "CD285A9E-327C-4882-8AA0-57806307AB7B"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1164"
-            endingLineNumber = "1164"
-            landmarkName = "tableView(_:leadingSwipeActionsConfigurationForRowAt:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "F22C3D95-2B05-4BBF-879E-4F2D83EE343B"
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1250"
-            endingLineNumber = "1250"
-            landmarkName = "tableView(_:commit:forRowAt:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "B43A6CFE-7F92-4FCB-8BD3-F35C65436FA7"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1251"
-            endingLineNumber = "1251"
-            landmarkName = "tableView(_:commit:forRowAt:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "C16345F5-D51A-4021-BB0A-D6134027324C"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1121"
-            endingLineNumber = "1121"
-            landmarkName = "tableView(_:leadingSwipeActionsConfigurationForRowAt:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
             uuid = "BC36D23D-05A2-4862-A7EF-097A16176B2A"
             shouldBeEnabled = "No"
             ignoreCount = "0"
@@ -24397,8 +24397,8 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1391"
-            endingLineNumber = "1391"
+            startingLineNumber = "1393"
+            endingLineNumber = "1393"
             landmarkName = "loadChoosingMatchingsMarried(isRefresh:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -24413,9 +24413,57 @@
             filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "1392"
-            endingLineNumber = "1392"
+            startingLineNumber = "1394"
+            endingLineNumber = "1394"
             landmarkName = "loadChoosingMatchingsMarried(isRefresh:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F77FC94F-D037-4D7D-84B4-02CB4A4984AB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1418"
+            endingLineNumber = "1418"
+            landmarkName = "loadChoosingMatchingsMarried(isRefresh:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4B3428AE-1DF7-4511-8CB6-1F3F253E571C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1198"
+            endingLineNumber = "1198"
+            landmarkName = "tableView(_:commit:forRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F66346ED-627D-470F-924C-CCC6C3BA7C32"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Tazweeg/Controllers/Member/ProfileDetail/ProfileDetailVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1197"
+            endingLineNumber = "1197"
+            landmarkName = "tableView(_:commit:forRowAt:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>

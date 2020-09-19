@@ -266,6 +266,7 @@ class Member : NSObject, NSCoding{
     var refusalReason : String?
     var isAttemptCompleted : Bool?
     var attempts : Int?         //number of matching attempts which got refused
+    var refusedBy : Int?        //Which member refused this member ... if user refused the proposal himself then his own ID would be here else other memberid
     /**
      * Instantiate the instance using the passed dictionary values to set the properties values
      */
@@ -588,6 +589,7 @@ class Member : NSObject, NSCoding{
         
         isAttemptCompleted = dictionary["isAttemptCompleted"] as? Bool
         attempts = dictionary["attempts"] as? Int
+        refusedBy  = dictionary["refusedBy"] as? Int
     }
     
 
@@ -891,6 +893,10 @@ class Member : NSObject, NSCoding{
         if attempts != nil{
             aCoder.encode(attempts, forKey: "attempts")
         }
+        if refusedBy != nil{
+            aCoder.encode(refusedBy, forKey: "refusedBy")
+        }
+        
     }
     
     /**
@@ -1000,5 +1006,6 @@ class Member : NSObject, NSCoding{
         refusalReason = aDecoder.decodeObject(forKey: "refusalReason") as? String
         isAttemptCompleted  = aDecoder.decodeObject(forKey: "isAttemptCompleted") as? Bool
         attempts = aDecoder.decodeObject(forKey: "attempts") as? Int
+        refusedBy  = aDecoder.decodeObject(forKey: "refusedBy") as? Int
     }
 }

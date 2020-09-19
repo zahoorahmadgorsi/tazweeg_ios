@@ -63,8 +63,7 @@ class ProfileDetailVC: UIViewController, UITableViewDelegate,UITableViewDataSour
     var btnEdit : UIBarButtonItem?
     var btnCallConsultant : UIBarButtonItem?
     var pageType:PageType = .profile
-//    var refusedCount:Int = 0
-//    var isRefusedLineSeperatorShown:Bool = false
+
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -1194,8 +1193,11 @@ class ProfileDetailVC: UIViewController, UITableViewDelegate,UITableViewDataSour
     func tableView(_ tableView: UITableView, commit editingStyle: UITableViewCell.EditingStyle, forRowAt indexPath: IndexPath) {
         if (editingStyle == .delete){
             if (infoType == .choosing || infoType == .matching){
-                var swipedRecord = self.choosings[indexPath.row]
-                if infoType == .matching{
+                var swipedRecord: Member?
+                if infoType == .choosing{
+                    swipedRecord = self.choosings[indexPath.row]
+                }
+                else if infoType == .matching{
                     swipedRecord = self.matchings[indexPath.section][indexPath.row]
                 }
                 if self.infoType == .choosing{
@@ -1204,7 +1206,7 @@ class ProfileDetailVC: UIViewController, UITableViewDelegate,UITableViewDataSour
                     // ***************************
                     var dic = Dictionary<String,AnyObject>()
                     dic["userId"] = memberDetail?.userId as AnyObject
-                    dic["memberId"] = swipedRecord.userId as AnyObject
+                    dic["memberId"] = swipedRecord?.userId as AnyObject
                     dic["userUpdateId"]  = Constants.loggedInMember?.userId as AnyObject
                     dic["deviceInfo"] = Utility.getDeviceInfo() as AnyObject
                     dic["appVersion"] = Utility.getAppVersion() as AnyObject
@@ -1236,7 +1238,7 @@ class ProfileDetailVC: UIViewController, UITableViewDelegate,UITableViewDataSour
                     // ***************************
                     var dic = Dictionary<String,AnyObject>()
                     dic["userId"] = self.memberDetail?.userId as AnyObject
-                    dic["id"] = swipedRecord.userId as AnyObject
+                    dic["id"] = swipedRecord?.userId as AnyObject
                     dic["updateUserId"]  = Constants.loggedInMember?.userId as AnyObject
                     dic["deviceInfo"] = Utility.getDeviceInfo() as AnyObject
                     dic["appVersion"] = Utility.getAppVersion() as AnyObject
@@ -1403,13 +1405,17 @@ class ProfileDetailVC: UIViewController, UITableViewDelegate,UITableViewDataSour
                             allMatchings = allMatchings.sorted(by: { ($0.priorityId ?? Int.max) < ($1.priorityId ?? Int.max)})      //first sorting on the base of priority
                             self.choosings = allMatchings.filter{return $0.matchStatusId == matchStatusType.choosing.rawValue}  //filtering choosing member out
                             let potentialMatchings : [Member] = allMatchings.filter{return $0.matchStatusId == matchStatusType.matching.rawValue }
-                            let refusedMatchings : [Member] = allMatchings.filter{return $0.matchStatusId == matchStatusType.refused.rawValue }
+                            let refusedByUser : [Member] = allMatchings.filter{return $0.matchStatusId == matchStatusType.refused.rawValue && $0.refusedBy == memberId }
+                            let refusedByOtherUser : [Member] = allMatchings.filter{return $0.matchStatusId == matchStatusType.refused.rawValue && $0.refusedBy != memberId }
                             self.matchings.removeAll()
 //                            if (potentialMatchings.count > 0){
                                 self.matchings.append(matchingsData(sectionTitle: "match".localized, sectionRows: potentialMatchings))
 //                            }
-                            if(refusedMatchings.count > 0){
-                                self.matchings.append(matchingsData(sectionTitle: "refused".localized, sectionRows: refusedMatchings))
+                            if(refusedByUser.count > 0){
+                                self.matchings.append(matchingsData(sectionTitle: "refusedByMember".localized, sectionRows: refusedByUser))
+                            }
+                            if(refusedByOtherUser.count > 0){
+                                self.matchings.append(matchingsData(sectionTitle: "refusedByOtherMember".localized, sectionRows: refusedByOtherUser))
                             }
                             self.married = allMatchings.filter{return $0.matchStatusId == matchStatusType.married.rawValue}     //filtering married members out
                             self.tblView.reloadData()
