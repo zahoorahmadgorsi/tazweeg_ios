@@ -1414,7 +1414,7 @@ class ProfileDetailVC: UIViewController, UITableViewDelegate,UITableViewDataSour
                             if(refusedByUser.count > 0){
                                 self.matchings.append(matchingsData(sectionTitle: "refusedByMember".localized, sectionRows: refusedByUser))
                             }
-                            if(refusedByOtherUser.count > 0){
+                            if(refusedByOtherUser.count > 0){//zahoor
                                 self.matchings.append(matchingsData(sectionTitle: "refusedByOtherMember".localized, sectionRows: refusedByOtherUser))
                             }
                             self.married = allMatchings.filter{return $0.matchStatusId == matchStatusType.married.rawValue}     //filtering married members out
