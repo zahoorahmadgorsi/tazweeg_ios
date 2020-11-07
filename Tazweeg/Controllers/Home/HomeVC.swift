@@ -185,7 +185,7 @@ class HomeVC: UIViewController {
         self.lblConsultantName.text = Constants.loggedInMember?.consultantName
         self.btnConsultantNumber.setTitle(Constants.loggedInMember?.cMobile?.stringValue, for: .normal)
         self.lblConsultantStates.text = Constants.loggedInMember?.consultantStates
-        self.lblMatchCount.text = String(Constants.loggedInMember?.matchCount ?? 0)
+        self.lblMatchCount.text = String(Constants.loggedInMember?.choosingCount ?? 0)
         
         self.lblPercentComplete.textColor = UIColor(hexString: appColors.defaultColor.rawValue)
         self.imgMatchCount.setImageColor(color: UIColor(hexString: appColors.defaultColor.rawValue))

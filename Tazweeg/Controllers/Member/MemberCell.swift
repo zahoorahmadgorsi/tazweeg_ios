@@ -14,9 +14,9 @@ class MemberCell: UITableViewCell {
     
     @IBOutlet weak var imgMember: UIImageView!
     @IBOutlet weak var lblMemberCode: UILabel!
-    @IBOutlet weak var lblMemberMatchCount: UILabel!
-    @IBOutlet weak var viewMatchCount: UIView!
-    @IBOutlet weak var imgMatchCount: UIImageView!
+    @IBOutlet weak var lblChoosingCount: UILabel!
+    @IBOutlet weak var viewChoosingCount: UIView!
+    @IBOutlet weak var imgChoosingCount: UIImageView!
     @IBOutlet weak var lblMemberName: UILabel!
     @IBOutlet weak var lblMemberPhoneNumber: UILabel!
     @IBOutlet weak var lblMemberAge: UILabel!
@@ -24,25 +24,32 @@ class MemberCell: UITableViewCell {
     @IBOutlet weak var lblMemberConsultant: UILabel!
     var userID : Int?
     
+    @IBOutlet weak var viewMatchingCount: UIStackView!
+    @IBOutlet weak var lblMatching: UILabel!
+    @IBOutlet weak var lblMatchingCount: UILabel!
+    @IBOutlet weak var imgMatchingCount: UIImageView!
+    
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
         
-        
+        self.lblMatching.text = "matching".localized
         if MOLHLanguage.isRTLLanguage() {
             self.lblMemberCode.textAlignment = .right
             self.lblMemberName.textAlignment = .right
             self.lblMemberPhoneNumber.textAlignment = .right
             self.lblMemberEmirate.textAlignment = .right
             self.lblMemberConsultant.textAlignment = .right
-            self.lblMemberMatchCount.textAlignment = .right
+            self.lblChoosingCount.textAlignment = .right
+            self.lblMatching.textAlignment = .right
         }else{
             self.lblMemberCode.textAlignment = .left
             self.lblMemberName.textAlignment = .left
             self.lblMemberPhoneNumber.textAlignment = .left
             self.lblMemberEmirate.textAlignment = .left
             self.lblMemberConsultant.textAlignment = .left
-            self.lblMemberMatchCount.textAlignment = .left
+            self.lblChoosingCount.textAlignment = .left
+            self.lblMatching.textAlignment = .left
         }
     }
     

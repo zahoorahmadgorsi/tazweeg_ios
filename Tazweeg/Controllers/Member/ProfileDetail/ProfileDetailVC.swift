@@ -351,7 +351,7 @@ class ProfileDetailVC: UIViewController, UITableViewDelegate,UITableViewDataSour
             profileInfoValues.append(self.memberDetail?.fullName ?? "notAvailable".localized )
 
             profileInfoKeys.append("phone".localized)
-            profileInfoValues.append(self.memberDetail?.phone.stringValue ?? "notAvailable".localized )
+            profileInfoValues.append(self.memberDetail?.phone?.stringValue ?? "notAvailable".localized )
 
             profileInfoKeys.append("email".localized)
             profileInfoValues.append(self.memberDetail?.email ?? "notAvailable".localized )
@@ -1320,7 +1320,7 @@ class ProfileDetailVC: UIViewController, UITableViewDelegate,UITableViewDataSour
         {
             loadChoosingMatchingsMarried(isRefresh: isRefresh) //Directly load matching no need to check IAP
         }else if (UserDefaults.standard.integer(forKey: "currentUser") == UserType.member.rawValue ){//Member
-            if (Constants.loggedInMember?.matchCount ?? 0 <= 0 && isRefresh != true){ //if its not a refresh call then just check matching count from the persist
+            if (Constants.loggedInMember?.choosingCount ?? 0 <= 0 && isRefresh != true){ //if its not a refresh call then just check matching count from the persist
                 Utility.showAlertWithOk(title: "information".localized, withMessage: "no_match_found".localized, withNavigation: self) {
                     if (isRefresh){ //if this is called from grid refreshing
                         self.refreshControl.endRefreshing()
@@ -1414,7 +1414,7 @@ class ProfileDetailVC: UIViewController, UITableViewDelegate,UITableViewDataSour
                             if(refusedByUser.count > 0){
                                 self.matchings.append(matchingsData(sectionTitle: "refusedByMember".localized, sectionRows: refusedByUser))
                             }
-                            if(refusedByOtherUser.count > 0){//zahoor
+                            if(refusedByOtherUser.count > 0){
                                 self.matchings.append(matchingsData(sectionTitle: "refusedByOtherMember".localized, sectionRows: refusedByOtherUser))
                             }
                             self.married = allMatchings.filter{return $0.matchStatusId == matchStatusType.married.rawValue}     //filtering married members out

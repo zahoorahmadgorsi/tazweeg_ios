@@ -58,7 +58,7 @@ class SlideMenuVC: UIViewController, UITableViewDelegate, UITableViewDataSource,
             }
         }
         self.lblName.text = Constants.loggedInMember?.fullName
-        self.lblPhoneNumber.text = Constants.loggedInMember?.phone.stringValue
+        self.lblPhoneNumber.text = Constants.loggedInMember?.phone?.stringValue
         if (UserDefaults.standard.integer(forKey: "currentUser") == UserType.consultant.rawValue ||
             UserDefaults.standard.integer(forKey: "currentUser") == UserType.admin.rawValue)//Consultant
         {

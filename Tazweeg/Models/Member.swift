@@ -15,7 +15,7 @@ class Member : NSObject, NSCoding{
     //    Step 1
     var code : String!
     var fullName : String!
-    var phone : NSNumber!
+    var phone : NSNumber?
     var email : String!
     var address : String!
     
@@ -252,7 +252,7 @@ class Member : NSObject, NSCoding{
     var consultantName : String!
     var consulantLastName : String!
     var cMobile : NSNumber?
-    var matchCount : Int!
+    var choosingCount : Int!           // this is actually choosings count
     var consultantStates : String!  // when member is logged in
     var emirateServeIn : String!    // when consultant is logged in
     var veilId : Int!
@@ -267,6 +267,7 @@ class Member : NSObject, NSCoding{
     var isAttemptCompleted : Bool?
     var attempts : Int?         //number of matching attempts which got refused
     var refusedBy : Int?        //Which member refused this member ... if user refused the proposal himself then his own ID would be here else other memberid
+    var matchingCount : Int?    //this is match count while other one is choosing count
     /**
      * Instantiate the instance using the passed dictionary values to set the properties values
      */
@@ -546,7 +547,7 @@ class Member : NSObject, NSCoding{
         }else if let val = dictionary["paymentAR"] as? String{         //at membersByConsultantIdM
             profileStatusAR = val
         }
-            matchCount = dictionary["matchCount"] as? Int
+            choosingCount = dictionary["matchCount"] as? Int
             consultantStates = dictionary["consultantStates"] as? String
             emirateServeIn  = dictionary["emirateServeIn"] as? String
         
@@ -589,7 +590,8 @@ class Member : NSObject, NSCoding{
         
         isAttemptCompleted = dictionary["isAttemptCompleted"] as? Bool
         attempts = dictionary["attempts"] as? Int
-        refusedBy  = dictionary["refusedBy"] as? Int
+        refusedBy = dictionary["refusedBy"] as? Int
+        matchingCount = dictionary["matchingCount"] as? Int
     }
     
 
@@ -820,8 +822,8 @@ class Member : NSObject, NSCoding{
         if profileStatusAR != nil{
             aCoder.encode(profileStatusAR, forKey: "statusAR")
         }
-        if matchCount != nil{
-            aCoder.encode(matchCount, forKey: "matchCount")
+        if choosingCount != nil{
+            aCoder.encode(choosingCount, forKey: "matchCount")
         }
         if consultantStates != nil{
             aCoder.encode(consultantStates, forKey: "consultantStates")
@@ -896,6 +898,10 @@ class Member : NSObject, NSCoding{
         if refusedBy != nil{
             aCoder.encode(refusedBy, forKey: "refusedBy")
         }
+        if matchingCount != nil{
+            aCoder.encode(matchingCount, forKey: "matchingCount")
+        }
+        
         
     }
     
@@ -978,7 +984,7 @@ class Member : NSObject, NSCoding{
         imagePath = aDecoder.decodeObject(forKey: "imagePath") as? String
         profileStatusEN = aDecoder.decodeObject(forKey: "statusEN") as? String
         profileStatusAR = aDecoder.decodeObject(forKey: "statusAR") as? String
-        matchCount = aDecoder.decodeObject(forKey: "matchCount") as? Int
+        choosingCount = aDecoder.decodeObject(forKey: "matchCount") as? Int
         consultantStates = aDecoder.decodeObject(forKey: "consultantStates") as? String //for  member. when member is logged in
         emirateServeIn = aDecoder.decodeObject(forKey: "emirateServeIn") as? String //for consultant. when consultant is logged in
         
@@ -1006,6 +1012,7 @@ class Member : NSObject, NSCoding{
         refusalReason = aDecoder.decodeObject(forKey: "refusalReason") as? String
         isAttemptCompleted  = aDecoder.decodeObject(forKey: "isAttemptCompleted") as? Bool
         attempts = aDecoder.decodeObject(forKey: "attempts") as? Int
-        refusedBy  = aDecoder.decodeObject(forKey: "refusedBy") as? Int
+        refusedBy = aDecoder.decodeObject(forKey: "refusedBy") as? Int
+        matchingCount = aDecoder.decodeObject(forKey: "matchingCount") as? Int
     }
 }

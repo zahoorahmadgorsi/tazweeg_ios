@@ -441,35 +441,50 @@ class MembersVC : UIViewController , UITableViewDelegate, UITableViewDataSource,
         //Changing color of match count view to green for completed members && if this member is still unviewed
         //if (model.profileStatusId != profileStatusType.incomplete.rawValue && model.isViewed == false){
         if (model.isViewed == false){
-            cell.imgMatchCount.image = #imageLiteral(resourceName: "matching count green")
+            cell.imgChoosingCount.image = #imageLiteral(resourceName: "matching count green")
         }else{
-            cell.imgMatchCount.image = #imageLiteral(resourceName: "matching count")
+            cell.imgChoosingCount.image = #imageLiteral(resourceName: "matching count")
         }
         
         cell.lblMemberCode.text = model.code
-        if (model.matchCount > 0){
-            cell.lblMemberMatchCount.text = String(model.matchCount)
-            cell.viewMatchCount.isHidden = false
+        if (model.choosingCount > 0){
+            cell.lblChoosingCount.text = String(model.choosingCount)
+            cell.viewChoosingCount.isHidden = false
         }else{
-            cell.viewMatchCount.isHidden = true
+            cell.viewChoosingCount.isHidden = true
         }
         
         cell.lblMemberName.text = model.fullName
-        cell.lblMemberPhoneNumber.text = model.phone.stringValue
+        cell.lblMemberPhoneNumber.text = model.phone?.stringValue
         cell.lblMemberAge.text = model.age
         cell.lblMemberConsultant.text = model.consultantName
         cell.userID = model.userId
-        cell.imgMatchCount.tag = indexPath.row
+        cell.imgChoosingCount.tag = indexPath.row
         //defining and adding tap gesture on snapchat
         let tapGestureOnMatchCount = UITapGestureRecognizer(target: self, action: #selector(imgMatchCountTapped))
         tapGestureOnMatchCount.numberOfTapsRequired = 1
         tapGestureOnMatchCount.numberOfTouchesRequired = 1
-        cell.imgMatchCount.isUserInteractionEnabled = true
-        cell.imgMatchCount.addGestureRecognizer(tapGestureOnMatchCount)
+        cell.imgChoosingCount.isUserInteractionEnabled = true
+        cell.imgChoosingCount.addGestureRecognizer(tapGestureOnMatchCount)
+        
+        if let matchingCount = model.matchingCount{
+            if (matchingCount == 0 ){ //user has not used any matching
+                cell.viewMatchingCount.isHidden = true
+            }else if (matchingCount > 0){    //user has used some matching attemps
+                cell.viewMatchingCount.isHidden = false
+                cell.lblMatchingCount.text = String(matchingCount)
+                cell.imgMatchingCount.setImageColor(color: UIColor.red)
+            }else if (matchingCount < 0){    //user has used all matching attemps
+                cell.viewMatchingCount.isHidden = false
+                cell.lblMatchingCount.text = "" //no match count, empty space
+                cell.imgMatchingCount.setImageColor(color: UIColor.red)
+            }
+        }
+        
         
         if MOLHLanguage.isRTLLanguage() {
             cell.lblMemberCode.textAlignment = .right
-            cell.lblMemberMatchCount.textAlignment = .right
+            cell.lblChoosingCount.textAlignment = .right
             cell.lblMemberName.textAlignment = .right
             cell.lblMemberPhoneNumber.textAlignment = .right
             cell.lblMemberAge.textAlignment = .left
@@ -479,7 +494,7 @@ class MembersVC : UIViewController , UITableViewDelegate, UITableViewDataSource,
         }
         else{
             cell.lblMemberCode.textAlignment = .left
-            cell.lblMemberMatchCount.textAlignment = .left
+            cell.lblChoosingCount.textAlignment = .left
             cell.lblMemberName.textAlignment = .left
             cell.lblMemberPhoneNumber.textAlignment = .left
             cell.lblMemberAge.textAlignment = .right
@@ -503,7 +518,7 @@ class MembersVC : UIViewController , UITableViewDelegate, UITableViewDataSource,
 //        print(" imgMatchCountTapped ")
         let view = gesture.view!
         let member = self.filteredTableData[view.tag]
-        if let number = member.matchCount {
+        if let number = member.choosingCount {
             if (number <= 0){
                 Utility.showAlert(title: "information".localized, withMessage: "no_member_found".localized, withNavigation: self)
             }

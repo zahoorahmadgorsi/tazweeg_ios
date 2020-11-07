@@ -176,7 +176,7 @@ class SignUpVC1: UIViewController, UITextFieldDelegate,CAAnimationDelegate{
     //*************************************************************************************************************************************************************
     func setMemberValues() {
         self.txtName.text = self.currentMember?.fullName
-        self.txtMobileNumber.text = self.currentMember?.phone.stringValue
+        self.txtMobileNumber.text = self.currentMember?.phone?.stringValue
         self.txtEmail.text = self.currentMember?.email
         self.txtEmiratesIdNumber.text = self.currentMember?.emiratesIdNumber
         //If valid emirates ID exist (length >= 18) and logged in user is a member then Txt emiratesID is not editable
