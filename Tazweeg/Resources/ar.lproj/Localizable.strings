@@ -1,0 +1,276 @@
+/* 
+  Localizable.strings
+  Tazweeg
+
+  Created by Ahmed on 3/24/19.
+  Copyright © 2019 Glowingsoft. All rights reserved.
+*/
+
+//Common
+"appFont" = "TAHOMA";
+"alert" =  "تنبيه";
+"gallery" = "رواق";
+"camera" = "كاميرا";
+"confirm" = "التأكيد";
+"ok" = "حسنا";
+"cancel" = "إلغاء";
+"search" = "بحث";
+"validation" = "التحقق";
+"verification" = "التحقق";
+"select_one" = "اختيار واحد";
+"done" = "فعله";
+"clear" = "واضح";
+"not_applicable" = "لايمكن تطبيقه";
+"failure" = "تعذر معالجة الطلب. يرجى إعادة المحاولة لاحقًا.";
+"noData" = "لا تتوافر بيانات";
+"Skip" = "تخطى";
+"yes" = "نعم";
+"no" = "لا";
+"otp_verified" = "تم التحقق من OTP بنجاح ، يرجى الاستمرار في بقية خطوات التسجيل.";
+//Common signUp
+"select_state" = "اختر محافظة / إمارة";
+"select_consultant" = "اختيار المعرف";
+"name_is_missing" = "الاسم مفقود";
+"name_length_invalid" = "الحد الادني للاسم 4 حروف";
+"phone_is_missing" = "رقم الهاتف مفقود";
+"phone_notValid" = "رقم الهاتف غير صالح";
+"consultant_notValid" = "المعرف غير صالح ، يرجى اختيار المعرف";
+"emirate_notValid" = "إمارة/المحافظة غير صالحة ، يرجى اختيار إمارة واحدة على الأقل";
+"terms_required" = "يرجى قبول الشروط والأحكام للمضي قدما";
+"email_notValid" = "البريد الإلكتروني غير صالح";
+"verification_code" = "شيفرة التأكيد";
+"emirate_id_notValid" = "رقم الهوية الوطنية غير صالح";
+"code_is_missing" = "رمز مفقود";
+"all_fields_required" = "جميع الحقول مطلوبة";
+"lang_required" = "اللغة مطلوبة";
+"sign_required" = "التوقيع مطلوب";
+"no_mem_found" = "لا يوجد عضو";
+"old_pass_miss" = "كلمة المرور القديمة مفقودة!";
+"new_pass_miss" = "كلمة المرور الجديدة مفقودة!";
+"pass_6_length" = "يجب أن تتكون كلمة المرور من 6 أحرف على الأقل!";
+"terms" = "تعليمات الاستخدام";
+"privacy_policy" = "سياسة الخصوصية";
+"pass_not_match" = "كلمة المرور غير متطابقة";
+"sign_up" = "تسجيل";
+"consultant_success_signup_msg" = "شكرا لتسجيلك معنا في مبادرة تزويج سوف نقوم بالتواصل معك لاستكمال الاجراءات";
+"member_success_signup_msg" = "لتسجيل الدخول ، يرجى استخدام بيانات الاعتماد التي يتم إرسالها إليك عبر الرسائل القصيرة.";
+"ksa_success_signup_msg" = "شكرا علي التسجيل معنا ، لإستكمال الطلب الخاص بك يرجي التواصل معنا علي الرقم 0097126225889 أو إرسال واتس اب علي الرقم ";
+"ksa_consultant_success_signup_msg" = "التابع لمبادرة تزويج سوف نقوم بالتواصل معك لتكمله باقي الإجراءات";
+"invalid_verification_code" = "رمز التحقق غير صالح. يرجى إعادة المحاولة";
+"copy_rights" = "حقوق الطبع والنشر © 2018 Tazweeg. جميع الحقوق محفوظة.";
+"terms_and_condition" = "الشروط والأحكام";
+"duplicateUser" = "أنت مسجل بالفعل. إذا لم تتذكر كلمة مرورك ، فيرجى تجربة الخيار نسيت كلمة المرور.";
+//Login
+"login" = "تسجيل الدخول";
+"member_login" = "تقديم تفاصيل تسجيل دخول الأعضاء";
+"consultant_login" = "تقديم تفاصيل تسجيل دخول المعرف";
+"verification_failed" = "بيانات اعتماد غير صالحة. يرجى إعادة المحاولة.";
+"information" = "معلومات";
+"feature_not_available" = "هذه الميزة غير متاحة حاليًا";
+"faceID_login" = "من فضلك ، اجتياز تصريح لدخول هذه المنطقة";
+"faceID_enter_credentials" = "حدد المستخدم وقدم بياناتك";
+"invalid_user_consultant" = "مستخدم غير صالح. أنت مسجل كالمعرف انتقل إلى تسجيل دخول المعرف";
+"invalid_user_member" = "مستخدم غير صالح. أنت مسجل كعضو انتقل إلى تسجيل دخول العضو";
+//Home/Profile Screen
+"percentage_complete" = "٪ اكتمال";
+"home" = "الصفحة الرئيسية";
+"consultant" = "المعرف";
+"photo_selection" = "اختيار الصور";
+"photo_selection_msg" = "التقط صورة من الكاميرا أو اختر من المكتبة.";
+"take_photo" = "التقاط صورة";
+"choose_photo" = "اختر صورة";
+"unpaid_profile" = "يرجى دفع الرسوم لرؤية التوافق.";
+"incomplete_profile" = "الملف الشخصي غير مكتمل يرجي تكمله الملف لرؤيه التوافق";
+"iAPNotAvailable" = "هذه الميزة غير متوفرة على هذا الجهاز.";
+"iAPNotDownloaded" = "في عمليات شراء التطبيق لا يمكن تنزيلها ، يرجى إعادة المحاولة لاحقًا.";
+"missing_whats_app" = "التطبيق مفقود";
+"install_whats_app" = "الرجاء تثبيت واتس اب!";
+//Slide Menu
+"complete_profile" = "الملف الشخصي الكامل";
+"settings" = "إعدادات";
+"profile" = "الملف الشخصي";
+"changePassword" = "غير كلمة السر";
+"changeLanguage" = "غير اللغة";
+"changeLaunchIcon" = "تغيير رمز تشغيل التطبيق";
+"enableFaceID" = "تفعيل خاصيه بصمه الوجه";
+"faqs" = "أسئلة مكررة";
+"sign_out" = "خروج";
+"contactUs" = "اتصل بنا";
+"areYouSure" = "هل أنت واثق؟";
+"office_address" = "مكتب 5206 - برج أداكس ، جزيرة الريم ، أبو ظبي ، الإمارات العربية المتحدة. صندوق بريد 42524";
+//Contact Us
+"mailServiceNotAvailable" = "خدمات البريد غير متوفرة";
+"emailSubject" = "ملاحظات التطبيق";
+//"emailBody" = "يرجى تقديم ملاحظاتك";
+"facebook" = "فيس بوك";
+"instagram" = "انستجرام";
+"pinterest" = "بينتيريست";
+"telegram" = "تيليجرام";
+"twitter" = "تويتر";
+//Sign Up Step 1
+"full_registration" = "التسجيل الكامل";
+"step1" = "الخطوة 1";
+"step2" = "الخطوة 2";
+"step3" = "الخطوة 3";
+"step4" = "الخطوة 4";
+"step5" = "الخطوة 5";
+//Step 4
+"bride_data" = "بيانات العروس";
+"groom_data" = "بيانات العريس";
+"female_social_status_check" = "هل أنتي على استعداد للزواج من مطلق أو  متزوج  أو  أرمل  أو أعزب؟";
+"male_social_status_check" = "هل أنت على استعداد للزواج من مطلق أو أرمل أو واحد؟";
+//Step 5
+"language_required" = "اللغة مطلوبة";
+"sign_required" = "التوقيع مطلوب";
+"success" = "نجاح";
+"payment"  = "دفع";
+"payment_message"  = "يرجى دفع الرسوم لإكمال ملف التعريف الخاص بك.";
+"profile_completed"  = "تمت عمليه الدفع بنجاح والآن حسابك مكتمل";
+"payment_selection" = "اختيار الدفع";
+"payment_selection_msg" = "الرجاء اختيار طريقة الدفع";
+"credit_debit_card" = "بطاقة الائتمان أو الخصم";
+"pay_now" = "ادفع الآن";
+"pay_later" = "ادفع لاحقا";
+"payment_failure" = "عذرًا ، لم يتم قبول دفعتك ، يرجى إعادة المحاولة.";
+//Step 6
+"already_paid" = "تم دفع الرسوم بالفعل";
+"age_check" = " شكرا علي تسجيلك في مبادره تزويج ، من فضلك تواصل مع هذا الرقم\n +971 55 552 9930 \n لتفعيل حسابك";        
+//Error Alert
+"error" = "خطأ";
+"general_error" = "حدث خطأ ما في الخادم ، يرجى إعادة المحاولة.";
+"profile_finished" = "تم تعطيل ملفك الشخصي. يرجى الاتصال بالاداره او ارسال ايميل.";
+//Members
+"members" = "أفراد";
+"matchings" = "التوافق";
+"areYouSurePay" = "هل أنت متأكد من أن هذا العضو قد دفع؟";
+"areYouSureFinish" = "هل أنت متأكد من أن هذا العضو قد تزوج؟";
+"areYouSureCancel" = "هل أنت متأكد من أنك تريد إلغاء هذا العضو؟ سيؤدي هذا الإجراء إلى إزالة العضو من قائمة الأعضاء.";
+"areYouSureTransfer" = "هل أنت متأكد من أنك تريد نقل العضو المختار إلى هذا المستشار";
+"numberOfRecords" = "العد:";
+//"search_params" = "ابحث عن عضو باتباع المعلمات التالية";
+"name" = "الاسم";
+"code" = "كود العضو";
+"age" = "العمر";
+"years" = "سنوات" ;
+"months" = "الشهور";
+"days" = "أيام";
+"emirate" = "الإمارة/المحافظة";
+"phone_number" = "رقم الهاتف";
+"all" = "الكل";
+"pending" = "قيد الانتظار";
+"pendingMembers" = "الأعضاء المعلقة";
+"completed" = "المكتمل";
+"paid" = "دفع";
+"finished" = "إنهاء";
+"finish" = "إنهاء";
+"pay" = "دفع";
+"choosing" = "تخيير";
+"matching" = "توفيق";
+"married" = "تزويج";
+"approve" = "موافق";
+"match" = "متوافق";
+"refusedByMember" = "رفض بواسطة العضو";
+"refusedByOtherMember" = "تم رفض بواسطة العضو الآخر";
+"refuse" = "رفض";
+"edit" = "تعديل";
+"delete" = "حذف";
+"transfer" = "نقل";
+"approval_attempts_expired" = "جميع محاولات التوافق انتهت";
+"marriage_attempts_expired" = "جميع محاولات الزواج انتهت";
+//Change Password
+"changePasswordSuccess" = "تم تغيير كلمة المرور بنجاح.";
+"passwordIsMisMatched" = "كلمة المرور غير متطابقة";
+//Change Launch Icoon
+"abu_dhabi" = "أبو ظبي";
+ "complete_profile" = "ملف التعريف الكامل";
+"dubai" = "دبي";
+"sharjha" = "الشارقة";
+"um_mul_queen" = "أم القيوين";
+"ras_al_khaima" = "رأس الخيمة";
+"ajman" = "عجمان";
+"fujairah" = "الفجيرة";
+"al_ain" = "العين";
+"abu_dhabi_police" = "شرطة أبوظبي";
+"tazweeg"= "تزويج";
+"dontSupport" = "هذه الميزة غير متوفرة بعد لهذا الجهاز.";
+//Matching
+"no_member_found" = "لم يتم العثور على أي عضو.";
+"no_match_found" = "لم يتم العثور على تطابق. يرجى تأكيد ما إذا كان ملفك الشخصي قد اكتمل.";
+//Members Details
+"userId" = "هوية المستخدم";
+"username" = "كود العضو";
+"fullName" = "الاسم الكامل";
+"phone" = "رقم الهاتف";
+"email" = "البريد الإلكتروني";
+"address" = "العنوان";
+"country" = "البلد";
+"family" = "القبيلة";
+"family_name_to_show"="هل تريد أن يرى الأعضاء الآخرون القبيلة؟"; 
+"birthPlace" = "مكان الولادة";
+"emirateId" = "الهوية الوطنية";
+"birthDate" = "تاريخ الولادة";
+"gender" = "الجنس";
+"residence" = "الإقامة";
+"ethnicity" = "الأصل العرقي";
+"motherNationality" = "جنسية الأم";
+"accepting_polygamy" = "هل تقبل تعدد الزوجات؟";
+"isSmoke" = "التدخين";
+"skinColor" = "لون البشرة";
+"hairColor" = "لون الشعر";
+"hairType" = "نوع الشعر";
+"eyeColor" = "لون العين";
+"height" = " الطول";
+"bodyType" = "نوع الجسم";
+"bodyWeight" = "وزن الجسم (كيلوغرام)";
+"isWorking" = "يعمل";
+"educationLevel" = "مستوى التعليم";
+"isDisease" = "أي مرض";
+"diseaseName" = "اسم المرض";
+"socialStatus" = "الحالة الاجتماعية";
+"financialStatus" = "الوضع المالي";
+"reproductionStatus" = "العقم";
+"hasChildren" = "هل يوجد أطفال";
+"noOfChildren" = "عدد الأطفال";
+"jobTitle" = "العنوان الوظيفي";
+"jobType" = "نوع الوظيفة";
+"firstRelative" = "إسم القريب الأول";
+"firstRelativeNumber" =  "رقم هاتف القريب الأول ";
+"firstRelativeRelation" = "العلاقة مع أول قريب ";
+"secondRelative" =  "إسم القريب الثاني";
+"secondRelativeNumber" = "رقم هاتف القريب الثاني";
+"secondRelativeRelation" = "العلاقة مع القريب الثاني ";
+"state" = "الإمارة/المحافظة";
+"skinType" = "نوع الجلد";
+"brideArrangment" = "ترتيب العروس";
+"occuption" = "العمل";
+"condemnBride" = "الحجاب";
+"drivingLicense" = "رخصة القيادة";
+"religionCommitment" = "الالتزام بالدين";
+"annualIncome" = "الدخل السنوي";
+"willPayToBride" = "كم ستدفع للزوج";
+"paymentStatus" = "حالة الملف الشخصي";
+"sect" = "نوع الطائفة";
+"applicantDescription" = "وصف مقدم الطلب";
+"notAvailable" = "غير متوفر";
+"member_information" = "بياناتي";
+"required_information" = "المطلوب";
+"requiredState" = "أين ستعيش مع الزوج";
+"willMarryInGCC" = "هل توافق على الزواج من مجلس التعاون الخليجي ؟";
+"commentsAdded" = "تمت إضافة التعليق بنجاح.";
+"comments" = "تعليقات";
+"submit" = "إرسال";
+"add_comments" = "الرجاء إضافة بعض التعليقات";
+"has_person_refer" = "هل لديك شخص تربطه به؟";
+"refer_name" = "الإسم";
+"refer_number" = "رقم الهاتف";
+//Change Password
+"old_pass_missing" = "كلمة المرور القديمة مفقودة";
+"new_pass_missing" = "كلمة المرور الجديدة مفقودة";
+"new_pass_length" = "يجب أن يكون طول كلمة المرور الجديدة على الأقل 6 أحرف";
+"passwords_not_match" = "كلمة المرور الجديدة والتأكيد غير متطابق";
+//Forgot Password
+"one_is_required" = "كتابة رقم الهاتف أو عنوان البريد الإلكتروني";
+"check_phone_email" = "تم إرسال بيانات الدخول الخاصة بك إلى رقم الهاتف أو عنوان البريد الإلكتروني المسجل.";
+"emailPhoneNotExist" = "المعلومات المقدمة غير موجودة.";
+"check_phone" = "حسابك فعال. لتفعيل حسابك ، يرجى إدخال الرمز السري الذي تم إرساله عبر الرسائل القصيرة.";
+"forgotPassword" = "هل نسيت كلمة المرور";

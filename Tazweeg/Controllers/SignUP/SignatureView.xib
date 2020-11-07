@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Tahoma-Regular-font.otf">
+            <string>Tahoma</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SignatureView" customModule="Tazweeg" customModuleProvider="target">
+            <connections>
+                <outlet property="clearBtn" destination="avB-2O-eo8" id="RB8-FM-fTY"/>
+                <outlet property="doneBtn" destination="6bP-vO-0rR" id="J6i-fK-8mJ"/>
+                <outlet property="signView" destination="bg1-73-GNL" id="FfG-7a-eyn"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="300" height="245"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="bg1-73-GNL" customClass="YPDrawSignatureView" customModule="Tazweeg" customModuleProvider="target">
+                    <rect key="frame" x="15" y="15" width="270" height="166"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </view>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0gu-jm-qAd" customClass="WAButton" customModule="Tazweeg" customModuleProvider="target">
+                    <rect key="frame" x="10" y="10" width="40" height="40"/>
+                    <color key="backgroundColor" red="0.0" green="0.68235294120000001" blue="0.93725490199999995" alpha="0.97518705989999999" colorSpace="calibratedRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="40" id="18b-ba-zds"/>
+                        <constraint firstAttribute="height" constant="40" id="xUR-S6-bcF"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="Tahoma" family="Tahoma" pointSize="17"/>
+                    <state key="normal" title="X">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                            <real key="value" value="20"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="cancelTap:" destination="-1" eventType="touchUpInside" id="aju-h4-EMW"/>
+                    </connections>
+                </button>
+                <stackView opaque="NO" contentMode="scaleToFill" distribution="fillEqually" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="cLK-XI-AFs">
+                    <rect key="frame" x="35" y="196" width="230" height="34"/>
+                    <subviews>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="6bP-vO-0rR" customClass="WAButton" customModule="Tazweeg" customModuleProvider="target">
+                            <rect key="frame" x="0.0" y="0.0" width="110" height="34"/>
+                            <color key="backgroundColor" red="0.0" green="0.68235294120000001" blue="0.93725490199999995" alpha="0.97518705989999999" colorSpace="calibratedRGB"/>
+                            <fontDescription key="fontDescription" name="Tahoma" family="Tahoma" pointSize="17"/>
+                            <state key="normal" title="Done">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                    <real key="value" value="8"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                            <connections>
+                                <action selector="doneTap:" destination="-1" eventType="touchUpInside" id="Q53-IN-Ly5"/>
+                            </connections>
+                        </button>
+                        <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="avB-2O-eo8" customClass="WAButton" customModule="Tazweeg" customModuleProvider="target">
+                            <rect key="frame" x="120" y="0.0" width="110" height="34"/>
+                            <color key="backgroundColor" red="0.0" green="0.68235294120000001" blue="0.93725490199999995" alpha="0.97518705989999999" colorSpace="calibratedRGB"/>
+                            <fontDescription key="fontDescription" name="Tahoma" family="Tahoma" pointSize="17"/>
+                            <state key="normal" title="Clear">
+                                <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </state>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                    <real key="value" value="8"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                            <connections>
+                                <action selector="clearTap:" destination="-1" eventType="touchUpInside" id="wwm-gf-RZj"/>
+                            </connections>
+                        </button>
+                    </subviews>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="34" id="Bb9-r5-YK0"/>
+                    </constraints>
+                </stackView>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="bg1-73-GNL" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="15" id="0Jm-fg-Kzv"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="cLK-XI-AFs" secondAttribute="bottom" constant="15" id="XIw-DU-Vuh"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="bg1-73-GNL" secondAttribute="trailing" constant="15" id="ZN0-07-ZLQ"/>
+                <constraint firstItem="bg1-73-GNL" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="15" id="aen-ZR-Da0"/>
+                <constraint firstItem="cLK-XI-AFs" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="35" id="apZ-83-rRY"/>
+                <constraint firstItem="0gu-jm-qAd" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="10" id="eGd-Yc-0TH"/>
+                <constraint firstItem="0gu-jm-qAd" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="10" id="gzz-yl-qNg"/>
+                <constraint firstItem="cLK-XI-AFs" firstAttribute="top" secondItem="bg1-73-GNL" secondAttribute="bottom" constant="15" id="kMp-Bh-PaS"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="cLK-XI-AFs" secondAttribute="trailing" constant="35" id="xiC-dB-nds"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <point key="canvasLocation" x="-21" y="147"/>
+        </view>
+    </objects>
+</document>
