@@ -103,10 +103,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		08B5C50B8CF22E46E3129D60 /* Pods-Coffee & Go.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Coffee & Go.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Coffee & Go/Pods-Coffee & Go.debug.xcconfig"; sourceTree = "<group>"; };
 		2576D229F15D58552A3ED441 /* Pods_Tazweeg.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Tazweeg.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2CA32628B22272D1E0E238F6 /* Pods-Coffee & Go.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Coffee & Go.release.xcconfig"; path = "Pods/Target Support Files/Pods-Coffee & Go/Pods-Coffee & Go.release.xcconfig"; sourceTree = "<group>"; };
-		407510587B18E113C8474F64 /* Pods-Nouht.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Nouht.release.xcconfig"; path = "Pods/Target Support Files/Pods-Nouht/Pods-Nouht.release.xcconfig"; sourceTree = "<group>"; };
 		507C4A60B7A5A2261674D0EB /* Pods-Tazweeg.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tazweeg.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Tazweeg/Pods-Tazweeg.debug.xcconfig"; sourceTree = "<group>"; };
 		881CBDC8228972EC00A2B26E /* UQ_launch_icons@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "UQ_launch_icons@3x.png"; sourceTree = "<group>"; };
 		881CE4CB227B10ED00A74FE5 /* LocalAuthentication.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = LocalAuthentication.framework; path = System/Library/Frameworks/LocalAuthentication.framework; sourceTree = SDKROOT; };
@@ -148,7 +145,6 @@
 		88E32F5B226C4D280018C0B9 /* MembersVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MembersVC.swift; sourceTree = "<group>"; };
 		88E71FD423530F4500E5E88B /* CountriesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountriesVC.swift; sourceTree = "<group>"; };
 		88E71FD623560F5D00E5E88B /* Country.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Country.swift; sourceTree = "<group>"; };
-		AB9E150F534E0EFD03F27A36 /* Pods-Zajelnee.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Zajelnee.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Zajelnee/Pods-Zajelnee.debug.xcconfig"; sourceTree = "<group>"; };
 		B700F30D1D1E3CFDF127E4C6 /* Pods-Tazweeg.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tazweeg.release.xcconfig"; path = "Pods/Target Support Files/Pods-Tazweeg/Pods-Tazweeg.release.xcconfig"; sourceTree = "<group>"; };
 		CB1BA2F12169F4ED005B1629 /* ProfileDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileDetailVC.swift; sourceTree = "<group>"; };
 		CB1BA2F5216A0550005B1629 /* SignUpVC2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpVC2.swift; sourceTree = "<group>"; };
@@ -203,8 +199,6 @@
 		CBF3BBF92047C7C800661D0E /* WALabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WALabel.swift; sourceTree = "<group>"; };
 		CBF3BBFA2047C7C800661D0E /* WAImageView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WAImageView.swift; sourceTree = "<group>"; };
 		CBFB147A2188393000525518 /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
-		D21591C609DAEDBCDE3A5648 /* Pods-Nouht.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Nouht.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Nouht/Pods-Nouht.debug.xcconfig"; sourceTree = "<group>"; };
-		DF82EE6D087412D04AA9D2E2 /* Pods-Zajelnee.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Zajelnee.release.xcconfig"; path = "Pods/Target Support Files/Pods-Zajelnee/Pods-Zajelnee.release.xcconfig"; sourceTree = "<group>"; };
 		E221D91D22475349007E64E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E221D924224753B4007E64E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Main.storyboard; sourceTree = "<group>"; };
 		E221D92C22476861007E64E6 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -234,12 +228,6 @@
 		6415A824EBA990D292C86280 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				D21591C609DAEDBCDE3A5648 /* Pods-Nouht.debug.xcconfig */,
-				407510587B18E113C8474F64 /* Pods-Nouht.release.xcconfig */,
-				08B5C50B8CF22E46E3129D60 /* Pods-Coffee & Go.debug.xcconfig */,
-				2CA32628B22272D1E0E238F6 /* Pods-Coffee & Go.release.xcconfig */,
-				AB9E150F534E0EFD03F27A36 /* Pods-Zajelnee.debug.xcconfig */,
-				DF82EE6D087412D04AA9D2E2 /* Pods-Zajelnee.release.xcconfig */,
 				507C4A60B7A5A2261674D0EB /* Pods-Tazweeg.debug.xcconfig */,
 				B700F30D1D1E3CFDF127E4C6 /* Pods-Tazweeg.release.xcconfig */,
 			);

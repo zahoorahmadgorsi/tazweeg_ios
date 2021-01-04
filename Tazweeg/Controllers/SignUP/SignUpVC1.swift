@@ -96,6 +96,7 @@ class SignUpVC1: UIViewController, UITextFieldDelegate,CAAnimationDelegate{
         extendedLayoutIncludesOpaqueBars = true
         loadDropDowns()
         if (UserDefaults.standard.integer(forKey: "currentUser") == UserType.member.rawValue){//Member
+            
             self.svEthnicity.isHidden = true //hidden for member
             if Constants.loggedInMember != nil{
                 self.currentMember = Constants.loggedInMember
@@ -189,6 +190,10 @@ class SignUpVC1: UIViewController, UITextFieldDelegate,CAAnimationDelegate{
         imgTribeVisibleTapped()
         if let date = self.currentMember?.birthDate{
             self.txtDOB.text = Utility.stringFromDateWithFormat(date, format: dateTimeFormat.onDevice.rawValue) //"dd-MMM-yyyy"
+            //disabling valid value of DOB for member
+            if (UserDefaults.standard.integer(forKey: "currentUser") == UserType.member.rawValue){//Member
+                self.txtDOB.isEnabled = false
+            }
         }
         self.txtPlaceOfBirth.text = self.currentMember?.birthPlace
         selectCountryByID(Id: self.currentMember?.countryId)

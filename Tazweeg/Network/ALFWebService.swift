@@ -49,21 +49,27 @@ class ALFWebService: NSObject {
         headers?["deviceType"] = "1"   //1 mean ios
         print(headers as Any)
         
-        let manager = Alamofire.SessionManager.default
+        let manager = Alamofire.Session.default
         manager.session.configuration.timeoutIntervalForRequest = 30
         manager.request(forMethod, method: .get, headers: headers).responseJSON { response in
 //            print(headers ??  "NIL")
             switch(response.result) {
-            case .success(_):
-                if response.result.value != nil{
-                    success(response.result.value as AnyObject)
-                }
-                break
+            case .success(let json):
+                success(json as AnyObject)
                 
-            case .failure(_):
-                fail(response.result.error as AnyObject)
+//            case .success(_):
+//                if response.result != nil{
+//                    success(response.result as AnyObject)
+//                }
+                break
+            case .failure(let error):
+                fail(error as AnyObject)
                 break
             }
+//            case .failure(_):
+//                fail(response.result as AnyObject)
+//                break
+//            }
         }
         
     }
@@ -123,22 +129,23 @@ class ALFWebService: NSObject {
             headers = [:]
         }
         headers?["deviceType"] = "1"   //1 mean ios
-        print(headers as Any)
-        let manager = Alamofire.SessionManager.default
+        //print(headers as Any)
+        let manager = Alamofire.Session.default
         manager.session.configuration.timeoutIntervalForRequest = 30
 //        print(headers ?? "default value")
         manager.request(forMethod, method: .post, parameters: parameters,  headers: headers).responseJSON { response in
             switch(response.result) {
-            case .success(_):
-                if response.result.value != nil{
-//                    print(headers ?? "default value")
-                    success(response.result.value as AnyObject)
-                }
+            //case .success(_):
+            case .success(let json):
+                //success(response.result as AnyObject)
+                success(json as AnyObject)
                 break
                 
-            case .failure(_):
-                if (response.data?.count)! > 0 {
-                    fail(response.result.error as AnyObject)
+            //case .failure(_):
+            case .failure(let error):
+                //if (response.data?.count)! > 0 {
+                if (error.errorDescription?.count)! > 0 {
+                    fail(error as AnyObject)
                 }
                 else{ //When ever there is empty response e.g. when verification code is verified
                     success("Success" as AnyObject)
@@ -161,9 +168,10 @@ class ALFWebService: NSObject {
         
         self.postMethodWithParamsAndImage(parameters: parameters, forMethod: self.urlString(subUrl: method), image: image, success: success, fail: fail)
     }
+    
     private func postMethodWithParamsAndImage(parameters: [String:String], forMethod: String, image: UIImage?, success:@escaping SuccessBlock, fail:@escaping FailureBlock){
         
-        let manager = Alamofire.SessionManager.default
+        let manager = Alamofire.Session.default
         manager.session.configuration.timeoutIntervalForRequest = 30
         let headers: HTTPHeaders?
         
@@ -179,7 +187,7 @@ class ALFWebService: NSObject {
 //                print(parameters)
 //                print(image as Any)
                 if image != nil {
-                    var imgData = (image?.jpeg(.high))!
+                    let imgData = (image?.jpeg(.high))!
 //                    print(imgData.count)
                     multipartFormData.append(imgData, withName: "signature_file", fileName: "signature_file.png", mimeType: "signature_file/png")
                 }
@@ -206,18 +214,18 @@ class ALFWebService: NSObject {
                 }
 //                print(multipartFormData)
         },
-            to: forMethod,  method: .post, headers: headers, encodingCompletion: { encodingResult in
-                switch encodingResult {
-                case .success(let upload, _, _):
-                    upload.responseJSON { response in
-                        
-                        success(response.result.value as AnyObject)
-                    }
-                case .failure(let encodingError):
-                    
-                    fail(encodingError as AnyObject)
-                }
-        })
+            to: forMethod,  method: .post, headers: headers
+//            to: forMethod,  method: .post, headers: headers, encodingCompletion: { encodingResult in
+//                switch encodingResult {
+//                case .success(let upload, _, _):
+//                    upload.responseJSON { response in
+//                        success(response.result.value as AnyObject)
+//                    }
+//                case .failure(let encodingError):
+//                    fail(encodingError as AnyObject)
+//                }
+//        }
+        )
         
         
         

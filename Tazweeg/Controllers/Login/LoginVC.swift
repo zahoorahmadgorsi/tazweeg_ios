@@ -125,6 +125,7 @@ class LoginVC: UIViewController, UITextFieldDelegate {
         ALFWebService.shared.doPostData(parameters: dic, method: Constants.apiLogin, success: { (response) in
 //            print(response)
             Utility.shared.hideSpinner()
+            
             if let status = response["Status"] as? Int {
                 if status == 1 {
                     if let data = response["User"] as? Dictionary<String,AnyObject> {
